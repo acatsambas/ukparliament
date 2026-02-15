@@ -1,0 +1,918 @@
+[
+  {
+    "bill": {
+      "billId": 4080,
+      "shortTitle": "Representation of the People Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-13T13:14:52.8209301",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4080"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-15T16:43:36.057Z"
+  },
+  {
+    "bill": {
+      "billId": 4035,
+      "shortTitle": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-13T10:46:22.563063",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4035"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-15T16:43:37.252Z"
+  },
+  {
+    "bill": {
+      "billId": 4030,
+      "shortTitle": "Railways Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T19:25:14.3379196",
+      "isAct": false,
+      "currentStage": {
+        "description": "Report stage",
+        "abbreviation": "RS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4030"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-15T16:56:31.628Z"
+  },
+  {
+    "bill": {
+      "billId": 4059,
+      "shortTitle": "Universal Credit (Removal of Two Child Limit) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T17:36:11.4048554",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee of the whole House",
+        "abbreviation": "COTWH",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4059"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-15T16:56:31.933Z"
+  },
+  {
+    "bill": {
+      "billId": 4042,
+      "shortTitle": "Finance (No. 2) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T17:35:11.6088383",
+      "isAct": false,
+      "currentStage": {
+        "description": "Report stage",
+        "abbreviation": "RS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4042"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-15T16:56:32.320Z"
+  },
+  {
+    "bill": {
+      "billId": 3998,
+      "shortTitle": "Clean Air (Human Rights) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T12:44:19.4116795",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3998"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-15T16:58:48.730Z"
+  },
+  {
+    "bill": {
+      "billId": 1081,
+      "shortTitle": "Infrastructure (Financial Assistance) Act 2012",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T10:53:22.4221087",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/1081"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-15T16:59:21.639Z"
+  },
+  {
+    "bill": {
+      "billId": 4081,
+      "shortTitle": "Short-term Let Accommodation (Data Sharing Requirements) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T10:04:24.8472049",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4081"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-15T16:59:57.448Z"
+  },
+  {
+    "bill": {
+      "billId": 4062,
+      "shortTitle": "Medical Training (Prioritisation) Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-13T16:10:30.8498233",
+      "isAct": false,
+      "currentStage": {
+        "description": "Report stage",
+        "abbreviation": "RS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4062"
+    },
+    "textAvailable": true,
+    "summary": "This Bill makes provision for the prioritisation of certain groups of individuals for places on UK medical training programmes, including the UK Foundation Programme and UK specialty training programmes. It primarily prioritises graduates from medical schools in the United Kingdom, along with graduates from Ireland, Iceland, Liechtenstein, Norway, and Switzerland, and individuals with specific UK immigration statuses. The aim is to ensure that these groups are offered training places before any other eligible applicants.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "mixed",
+        "summary": "The bill aims to retain UK-trained doctors, potentially improving workforce stability, but risks exacerbating existing medical staff shortages by limiting the pool of international talent, which could negatively impact healthcare productivity.",
+        "detail": "By prioritising UK medical graduates, the bill intends to secure the domestic medical workforce, potentially reducing 'brain drain' and ensuring a return on public investment in medical education. This could lead to a more stable healthcare sector, indirectly supporting overall economic productivity by maintaining a healthier workforce. However, the UK healthcare system heavily relies on international medical graduates. Restricting their access to training places could lead to significant workforce shortages, particularly in specialties or regions less attractive to domestic graduates. This could necessitate increased spending on agency staff, lead to longer waiting lists, and reduce the overall capacity and efficiency of the healthcare system, thereby negatively impacting economic output and growth."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "mixed",
+        "summary": "The bill may reduce long-term recruitment costs by retaining UK graduates but could incur higher short-term costs if it worsens workforce shortages, requiring more expensive temporary staffing or increased domestic training investment.",
+        "detail": "The prioritisation policy could lead to savings in the long run if it successfully retains UK-trained doctors, reducing the need for costly international recruitment campaigns and associated visa processing. However, if the bill leads to a net reduction in the overall number of doctors entering training due to fewer international applicants, the government may face increased costs. These could include higher expenditure on temporary or agency staff to fill gaps, or the need for substantial, long-term investment in expanding domestic medical school places and training infrastructure, which is a significant financial commitment. Administrative costs for implementing the new prioritisation system would be minor."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "negative",
+        "summary": "The bill creates a two-tier system that disadvantages highly qualified medical graduates from non-prioritised countries, potentially hindering diversity and equitable opportunity within the medical profession.",
+        "detail": "The bill explicitly privileges certain groups based on their country of medical qualification (UK, Ireland, Iceland, Liechtenstein, Norway, Switzerland) and specific immigration statuses. This inherently disadvantages otherwise eligible and qualified medical graduates from other countries, who will be considered only after the priority groups. While the stated rationale may be to secure the domestic workforce and ensure public investment benefits the UK, this policy could be perceived as discriminatory based on nationality or origin of training. It limits equitable access to professional development opportunities for a significant portion of the global medical talent pool, potentially reducing diversity within the NHS and creating a sense of injustice among those excluded from priority consideration."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "negative",
+        "summary": "The bill restricts the professional liberty and autonomy of non-prioritised international medical graduates by significantly limiting their ability to pursue medical training in the UK.",
+        "detail": "For medical graduates not falling into the prioritised categories, the bill directly restricts their professional liberty and autonomy to pursue their chosen career path within the UK. While they remain 'eligible applicants,' their chances of securing a training place are substantially diminished as priority groups must be offered places first. This impacts their ability to choose where they train and develop their careers, effectively narrowing their professional options within the UK. Although the government's rationale is likely rooted in national workforce planning and securing public investment, the policy undeniably curtails the freedom of career choice for a specific group of highly skilled individuals, even if it doesn't directly control their personal behaviour."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "mixed",
+        "summary": "The bill could improve long-term healthcare stability if it successfully retains UK doctors, but risks worsening patient welfare and quality of life in the short-to-medium term by exacerbating existing medical workforce shortages.",
+        "detail": "The intended outcome of the bill is to secure a stable and sufficient medical workforce by retaining UK-trained doctors, which could lead to improved access to healthcare, reduced waiting times, and higher quality of care for citizens, thus enhancing their welfare. However, the UK healthcare system is currently facing significant workforce challenges and relies heavily on international medical graduates. If the bill deters these international doctors without a commensurate increase in domestic supply, it could exacerbate existing shortages. This would likely lead to longer waiting lists, reduced access to essential services, increased pressure on existing staff, and a potential decline in the overall quality of patient care, negatively impacting the welfare and quality of life for the general population."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "neutral",
+        "summary": "The bill's provisions for medical training prioritisation have no direct or significant indirect impact on the environment.",
+        "detail": "The Medical Training (Prioritisation) Bill focuses exclusively on human resource management within the medical sector, specifically the allocation of training places. Its provisions do not involve any activities, industries, or policies that would directly affect environmental factors such as emissions, resource consumption, biodiversity, or climate change. Any potential indirect effects, such as a marginal reduction in international travel if fewer overseas doctors apply for UK training, would be negligible and not a primary or even secondary consideration of the bill's purpose or expected impact."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:15:34.145Z"
+  },
+  {
+    "bill": {
+      "billId": 4016,
+      "shortTitle": "Biodiversity Beyond National Jurisdiction Act 2026",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-13T10:10:56.5917615",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4016"
+    },
+    "textAvailable": true,
+    "summary": "This bill implements the United Nations Agreement on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement). It establishes a legal framework for the United Kingdom to regulate activities related to marine genetic resources (MGRs) and area-based management tools (ABMTs) in international waters. Key provisions include requirements for information sharing, benefit sharing, environmental impact assessments, and marine licensing for UK entities operating in these areas.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "mixed",
+        "summary": "The bill is expected to impose increased compliance costs on UK entities involved in marine research and industry, potentially leading to short-term economic burdens, while offering long-term, indirect benefits through sustainable resource management.",
+        "detail": "The implementation of this bill will likely lead to increased operational and compliance costs for UK-based research institutions, biotechnology companies, and marine industries engaged in activities in areas beyond national jurisdiction. These costs stem from requirements for information provision, sample/data deposition, potential monetary benefit sharing, and undergoing environmental impact assessments and licensing processes. The mandated 7-month waiting period for MGR collection could also introduce delays and additional expenses. While these regulatory burdens may negatively impact short-term economic growth and productivity for affected sectors, the bill's contribution to global marine sustainability could yield long-term, indirect economic benefits by preserving critical marine ecosystems and resources, fostering international collaboration, and maintaining the UK's reputation as a responsible maritime nation. However, the direct economic benefits for the UK are not immediately quantifiable and depend heavily on the global success of the BBNJ Agreement."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "negative",
+        "summary": "The bill will increase government expenditure due to the administrative and enforcement costs of establishing and operating the new regulatory framework, which are unlikely to be fully offset by potential revenues.",
+        "detail": "Implementing the provisions of this bill will incur significant costs for the UK government and devolved administrations. These costs include establishing and maintaining the necessary administrative infrastructure to process information, manage data, monitor compliance, and enforce regulations related to marine genetic resources and area-based management tools. Furthermore, there will be expenses associated with participation in international bodies like the Clearing-House Mechanism and the Conference of the Parties, as well as developing and publishing guidance. While the bill allows for the charging of fees and the imposition of civil sanctions, these revenue streams are unlikely to fully offset the substantial administrative, operational, and enforcement expenditures required to meet the UK's obligations under the BBNJ Agreement. Therefore, a net negative impact on government finances is anticipated."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "positive",
+        "summary": "The bill promotes global fairness and justice by implementing an international agreement for the equitable sharing of benefits from marine genetic resources and ensuring consistent application of rules for UK entities.",
+        "detail": "The core objective of the BBNJ Agreement, which this bill implements, is to ensure the fair and equitable sharing of benefits arising from marine genetic resources in areas beyond national jurisdiction. This addresses historical imbalances where developed nations have often disproportionately benefited from these global commons. By requiring UK entities to share information, deposit samples/data, and potentially contribute to monetary benefit-sharing mechanisms, the bill directly supports this international equity goal. Domestically, the bill applies broadly to 'UK craft' and 'United Kingdom persons,' aiming to create a level playing field for all UK-affiliated actors. Exceptions for fishing and military activities align with existing international law and do not appear to unfairly privilege specific domestic groups. The provisions for public accessibility of data and samples also foster transparency and broader access to scientific knowledge, contributing to global scientific justice."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "negative",
+        "summary": "The bill imposes new regulatory obligations and restrictions on UK individuals and entities operating in international waters, limiting their autonomy in marine activities, but these are justified by global environmental protection goals.",
+        "detail": "The bill introduces new and substantial regulatory requirements that will restrict the liberty and autonomy of UK individuals, research institutions, and commercial entities involved in marine activities beyond national jurisdiction. These include mandatory information provision, deposition of marine genetic resource samples and digital sequence information, adherence to specific timelines (e.g., a 7-month pre-collection waiting period), and compliance with marine licensing and environmental impact assessment processes. Non-compliance can lead to civil sanctions or criminal offences, including imprisonment. While these measures represent a clear curtailment of operational freedom, they are deemed necessary to fulfill the UK's international obligations under the BBNJ Agreement. The restrictions are justified by the imperative to conserve and sustainably use marine biodiversity, a global public good that outweighs individual or corporate autonomy in this context, aligning with the broader international consensus on ocean governance."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "positive",
+        "summary": "By contributing to global marine conservation and sustainable resource use, the bill indirectly enhances human welfare and quality of life through healthier oceans and potential scientific advancements.",
+        "detail": "The bill's focus on the conservation and sustainable use of marine biological diversity in areas beyond national jurisdiction is expected to have a positive, albeit indirect, impact on human welfare and quality of life. Healthy oceans are vital for numerous ecosystem services, including climate regulation, food security, and the provision of potential new resources for medicine and industry. By establishing a robust framework for managing marine genetic resources and implementing area-based management tools, the bill helps safeguard these critical services globally. The fair and equitable sharing of benefits from marine genetic resources could also foster international scientific collaboration, potentially leading to discoveries that improve human health and well-being worldwide. While there are no direct, immediate impacts on the daily quality of life for UK citizens, the long-term benefits of a healthier global ocean environment are significant for all."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "positive",
+        "summary": "The bill is expected to have a significant positive impact on the marine environment by establishing a comprehensive framework for conservation, sustainable use, and impact assessment in international waters.",
+        "detail": "The primary purpose of this bill is to enhance the protection and sustainable management of marine biodiversity in areas beyond national jurisdiction, making its environmental impact strongly positive. By implementing the BBNJ Agreement, the bill introduces mechanisms for the responsible collection and utilization of marine genetic resources, promotes the establishment of area-based management tools (including marine protected areas), and mandates environmental impact assessments for activities in these vast ocean spaces. The requirements for information sharing and data deposition will significantly improve scientific understanding of marine ecosystems, aiding evidence-based conservation efforts. While the effectiveness hinges on robust enforcement and international cooperation, the bill provides the necessary legal framework for the UK to contribute substantially to global ocean health, mitigate adverse human impacts, and foster the long-term resilience of marine biodiversity."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:16:11.734Z"
+  },
+  {
+    "bill": {
+      "billId": 3810,
+      "shortTitle": "Secure 16 to 19 Academies Act 2026",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-13T10:05:16.5568121",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3810"
+    },
+    "textAvailable": true,
+    "summary": "This bill amends the Academies Act 2010 to introduce specific provisions for 'secure 16 to 19 Academies'. It reduces the notice period for terminating their funding agreements from seven years to two, removes the Secretary of State's duty to consider their impact on existing educational institutions, and alters the mandatory consultation question to focus on cooperation with local partners.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "mixed",
+        "summary": "The bill could lead to more efficient allocation of resources for specialized education but might create localized market distortions for other educational providers.",
+        "detail": "Shortening the notice period for funding agreements could allow for quicker adaptation to changing needs or performance issues, potentially improving resource efficiency in the long run by enabling faster reallocation of funds. Exempting impact assessments and altering consultation could accelerate the establishment of these academies, addressing specific educational needs faster and potentially boosting productivity within this niche sector. However, by removing the duty to consider impact on existing institutions, it could lead to oversupply or underutilization of resources in other local educational settings, potentially creating inefficiencies or competitive pressures that could negatively affect the broader educational economy in specific areas. The net effect is likely mixed, with potential gains in specialized provision efficiency offset by potential broader market distortions."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "neutral",
+        "summary": "The bill primarily reallocates existing funding mechanisms and streamlines administrative processes without directly increasing or decreasing overall government expenditure.",
+        "detail": "Shortening the funding agreement notice period from 7 to 2 years gives the government more flexibility to cease funding underperforming or unnecessary secure academies, potentially saving money in the long term by avoiding prolonged commitments. Removing the impact assessment duty and changing the consultation question could reduce administrative costs associated with establishing new secure academies, as fewer bureaucratic steps are required. However, these are largely procedural changes that shift how existing education budgets are managed rather than altering the overall quantum of funding. The establishment of new academies still requires funding, and the changes primarily affect the agility of funding allocation and oversight, leading to a neutral overall impact on government finances."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "positive",
+        "summary": "The bill aims to improve access to specialized education for a potentially vulnerable or specific cohort of young people, addressing their unique needs more effectively.",
+        "detail": "Secure 16 to 19 Academies likely cater to a specific, potentially disadvantaged or high-needs group of young people, such as those in secure settings, with complex behavioral issues, or requiring specialized support. By streamlining the establishment and operation of these academies (shorter funding notice, no impact assessment on existing institutions, focused consultation on partnerships), the bill prioritizes the provision of tailored education for this group. This could be seen as a positive step towards ensuring that these young people, who might otherwise struggle to access appropriate education, receive the support they need, thereby promoting greater educational equity and justice for a specific minority group. The changes are justified by the presumed unique and urgent needs of the target population."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "neutral",
+        "summary": "The bill primarily affects institutional processes and funding mechanisms for a specific type of educational provider, with no direct impact on the personal liberties or autonomy of citizens.",
+        "detail": "The provisions relate to the administrative and funding frameworks for 'secure 16 to 19 Academies' and the Secretary of State's duties. They do not introduce new restrictions on individual freedoms, choices, or autonomy for students, parents, or the general public. While the establishment of new academies might influence educational choices in an area, the bill's specific changes (notice periods, impact assessments, consultation questions) are at an institutional level and do not directly curtail or expand personal liberty. Therefore, the overall impact on liberty and autonomy is neutral."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "positive",
+        "summary": "By facilitating the establishment and adaptive management of specialized educational institutions, the bill is expected to improve the educational outcomes and overall welfare of young people in secure settings.",
+        "detail": "The bill's provisions are designed to make it easier and more flexible to establish and manage 'secure 16 to 19 Academies.' These academies are likely crucial for providing education and support to young people who are in secure environments or have significant needs that cannot be met in mainstream settings. By shortening funding notice periods, removing impact assessment requirements on other schools, and focusing consultations on local partnerships, the bill aims to ensure that these specialized institutions can be set up and adapted more quickly to meet the specific and often urgent needs of their students. This improved responsiveness and tailored provision can lead to better educational attainment, reduced reoffending rates (if applicable), and enhanced life chances for a vulnerable cohort, thereby improving their welfare and quality of life."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "neutral",
+        "summary": "The bill's provisions are entirely focused on educational policy and administration, with no direct or indirect implications for environmental protection or sustainability.",
+        "detail": "The amendments to the Academies Act 2010 concern funding agreements, impact assessments, and consultation processes for a specific type of educational institution. These policy changes do not involve land use, energy consumption, waste management, transportation, or any other activities that would typically have an environmental footprint. There are no foreseeable first-order or second-order effects on the natural environment, climate change, biodiversity, or pollution levels. Therefore, the bill is expected to have a neutral impact on the environment."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:16:50.390Z"
+  },
+  {
+    "bill": {
+      "billId": 3783,
+      "shortTitle": "Licensing Hours Extensions Act 2026",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-13T10:01:07.1693558",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3783"
+    },
+    "textAvailable": true,
+    "summary": "The Licensing Hours Extensions Act 2026 amends the Licensing Act 2003 to streamline the process for altering licensing hours. It changes the parliamentary procedure, allowing licensing hours orders to be made by negative resolution statutory instrument, rather than requiring an affirmative resolution. This procedural change applies to England and Wales only, and the Act comes into force upon being passed.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "positive",
+        "summary": "The bill is expected to boost the night-time economy and hospitality sector by making it easier and quicker to extend licensing hours, leading to increased sales and potential job creation.",
+        "detail": "By simplifying the process for extending licensing hours, the bill reduces administrative hurdles for the government to respond to demand for longer operating times, such as for major events or holidays. This flexibility can directly benefit pubs, clubs, restaurants, and related services (e.g., taxis, security) through increased revenue and customer footfall. While businesses may incur additional staffing and operational costs for extended hours, the overall ease of implementation is likely to encourage more frequent extensions, fostering greater economic activity and potentially leading to job growth within the hospitality sector and its supply chains. This streamlined approach supports a more dynamic and responsive night-time economy."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "mixed",
+        "summary": "The bill could increase government tax revenues from a more active night-time economy but may also lead to increased costs for local authorities in managing public services.",
+        "detail": "Increased economic activity in the hospitality sector, facilitated by easier licensing hour extensions, is likely to generate higher tax receipts through VAT, business rates, and potentially income tax from increased employment. This represents a positive impact on central government revenue. However, local authorities and emergency services (police, ambulance) may face increased costs associated with managing public order, noise complaints, waste collection, and potential alcohol-related incidents during extended operating hours. While the bill itself is a procedural change and not a direct mandate for extensions, the ease of making such orders means these additional costs are more likely to materialise, creating a mixed fiscal impact depending on the frequency and scale of future licensing extensions."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "mixed",
+        "summary": "While not directly targeting specific groups, the bill's facilitation of extended licensing hours could disproportionately affect residents near venues through increased disruption, potentially creating an unfair burden.",
+        "detail": "The bill's procedural nature means it does not inherently privilege or penalise any specific minority group. However, the practical consequence of easier licensing hour extensions could lead to increased noise, anti-social behaviour, and public nuisance in residential areas, particularly those adjacent to licensed premises. This disproportionately impacts residents, who may experience a reduction in their quality of life and peaceful enjoyment of their homes, without direct compensation or recourse. While the intent is to benefit the wider public and economy, the burden of these externalities often falls unfairly on specific communities, raising concerns about environmental justice and equitable distribution of societal costs and benefits."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "mixed",
+        "summary": "The bill enhances the liberty of consumers and businesses by offering greater choice and operational flexibility, but it may infringe on the autonomy of residents to enjoy peaceful living environments.",
+        "detail": "For consumers, the ability to extend licensing hours provides greater freedom and choice in leisure activities, allowing them more autonomy over their social lives and entertainment options. Similarly, businesses gain increased autonomy to operate for longer periods, responding to market demand and maximising their commercial potential. However, this enhanced liberty for some can come at the expense of others. Residents living near licensed venues may experience increased noise and disruption, particularly late at night, which can impinge on their personal liberty to enjoy peace and quiet in their homes. This creates a tension where the expansion of liberty for one group potentially restricts the autonomy and quality of life for another, necessitating careful consideration of balancing these competing interests."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "negative",
+        "summary": "The bill is expected to negatively impact public welfare and quality of life due to the increased risk of alcohol-related harms, noise pollution, and anti-social behaviour associated with easier licensing hour extensions.",
+        "detail": "While extended hours can offer increased opportunities for socialising and entertainment, potentially benefiting some aspects of quality of life, the easier process for extending licensing hours carries significant risks. Increased availability of alcohol and later closing times are strongly correlated with higher rates of alcohol-related health issues, crime, and anti-social behaviour. Residents living near venues are likely to experience increased noise pollution and disruption, negatively impacting sleep, mental well-being, and overall quality of life. The administrative ease of making these orders means such negative externalities could become more frequent or widespread, leading to a net detriment to public welfare and community well-being, outweighing the benefits of extended leisure options."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "negative",
+        "summary": "The bill is expected to have a negative environmental impact by potentially increasing energy consumption, waste generation, and traffic emissions due to extended operating hours.",
+        "detail": "Extended operating hours for licensed premises will likely lead to increased energy consumption for lighting, heating, and cooling, contributing to higher carbon emissions. Furthermore, longer opening times often result in greater waste generation, including bottles, food waste, and general litter, which can strain waste management services and contribute to environmental pollution, particularly in urban areas. Increased late-night activity may also lead to a rise in traffic from patrons using taxis or private vehicles, thereby increasing local air pollution and noise. While these impacts are indirect consequences of subsequent orders rather than the bill itself, the bill's facilitation of such orders makes these negative environmental outcomes more probable."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:17:05.985Z"
+  },
+  {
+    "bill": {
+      "billId": 3938,
+      "shortTitle": "Crime and Policing Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T17:16:18.7740758",
+      "isAct": false,
+      "currentStage": {
+        "description": "Report stage",
+        "abbreviation": "RS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3938"
+    },
+    "textAvailable": true,
+    "summary": "This bill introduces a wide array of measures aimed at enhancing public safety and law enforcement capabilities across the UK. It establishes new criminal offences for anti-social behaviour, offensive weapons, child exploitation, retail crime, and public order, while also strengthening existing penalties and police powers. Additionally, the bill reforms aspects of sex offender management, proceeds of crime, and terrorism prevention, alongside removing criminal liability for women regarding their own pregnancies.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "mixed",
+        "summary": "The bill is expected to reduce economic losses from crime and fraud, but could impose significant compliance costs on businesses, particularly online service providers and retailers.",
+        "detail": "Measures targeting retail crime, theft, and fraud (e.g., new offences for electronic vehicle theft devices, SIM farms, assault of retail workers) are likely to reduce losses for businesses, potentially leading to lower insurance costs and increased investment confidence. However, the introduction of civil penalties for online advertising of unlawful weapons and stricter age verification/reporting requirements for remote knife/crossbow sales will increase regulatory and operational costs for online platforms and retailers. These compliance burdens could disproportionately affect smaller businesses and potentially stifle innovation in the digital sector. The overall economic impact is a trade-off between reduced crime-related losses and increased regulatory overhead."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "negative",
+        "summary": "The bill will significantly increase government expenditure on policing, the justice system, and incarceration, with potential revenue from fines and asset recovery unlikely to offset these costs.",
+        "detail": "The extensive creation of new criminal offences and enhanced penalties across various domains (anti-social behaviour, offensive weapons, child exploitation, public order) will necessitate substantial increases in funding for police investigations, prosecutions, and court proceedings. A likely rise in incarceration rates due to harsher sentencing will further strain the prison and probation services. While the bill includes provisions for increased fixed penalty notices, civil penalties for online content, and enhanced proceeds of crime recovery, these revenue streams are unlikely to fully compensate for the considerable operational and infrastructure costs associated with expanding the criminal justice system's scope and capacity."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "mixed",
+        "summary": "The bill advances justice for victims of child sexual abuse and retail workers, and improves women's reproductive rights, but risks disproportionately penalising vulnerable groups and certain protest movements.",
+        "detail": "Positive impacts include the removal of the limitation period for child sexual abuse cases, the creation of specific offences to protect retail workers and children from exploitation, and the decriminalisation of abortion for women. These measures enhance justice and fairness for historically disadvantaged groups. Conversely, provisions such as 'Respect orders' for anti-social behaviour, the offence of facilitating begging, and new public order offences (e.g., concealing identity at protests) could disproportionately affect homeless individuals, those in poverty, or specific protest groups, potentially leading to unfair targeting and increased marginalisation. The anonymity provisions for authorised firearms officers in certain criminal proceedings also raise concerns about equal accountability before the law."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "negative",
+        "summary": "The bill introduces numerous new restrictions on personal liberty, privacy, and digital autonomy, justified by public safety and national security, but raising concerns about proportionality and potential overreach.",
+        "detail": "Personal liberties are curtailed through new civil injunctions ('Respect orders') with broad definitions of anti-social behaviour, extended detention powers, and new criminal offences related to public order (e.g., concealing identity at protests, climbing memorials). Digital autonomy is significantly impacted by powers to scan electronic devices at borders for CSA images, suspend IP addresses/domain names, and extract online information from seized devices, expanding state surveillance. While these measures aim to protect vulnerable individuals and national security, their extensive scope and the potential for broad application could lead to a chilling effect on free expression, privacy, and freedom of assembly, raising questions about the proportionality of these restrictions."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "mixed",
+        "summary": "The bill aims to improve public safety and protect vulnerable groups, potentially enhancing quality of life, but new powers and restrictions could negatively impact civil liberties and the well-being of certain communities.",
+        "detail": "Expected improvements in welfare and quality of life stem from reduced anti-social behaviour, retail crime, and enhanced protections against child sexual abuse and exploitation. The decriminalisation of abortion for women is a significant positive for reproductive health and autonomy. However, the broad expansion of police powers, increased surveillance, and the potential for disproportionate enforcement of new public order and anti-social behaviour laws could lead to increased anxiety, reduced trust in authorities, and a diminished sense of personal freedom for some citizens. The impact on mental health and social cohesion within communities targeted by these new powers warrants careful consideration."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "positive",
+        "summary": "The bill includes a specific provision for guidance on fly-tipping enforcement, which is expected to have a positive, albeit limited, impact on the environment.",
+        "detail": "Section 9, which mandates guidance on fly-tipping enforcement in England, is the primary environmental provision. Effective implementation of this guidance is expected to lead to a reduction in illegal waste dumping, contributing to cleaner public spaces, reduced pollution, and better resource management. While this is a direct positive environmental impact, the vast majority of the bill's other provisions are focused on criminal justice and policing matters and do not have direct or significant indirect environmental consequences. Therefore, the overall environmental benefit of the bill is specific and limited."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:18:26.395Z"
+  },
+  {
+    "bill": {
+      "billId": 3879,
+      "shortTitle": "Tobacco and Vapes Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T17:14:39.9849689",
+      "isAct": false,
+      "currentStage": {
+        "description": "Report stage",
+        "abbreviation": "RS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3879"
+    },
+    "textAvailable": true,
+    "summary": "This bill introduces a generational ban on the sale of tobacco products, herbal smoking products, and cigarette papers to anyone born on or after 1 January 2009 across the UK. It also strengthens regulations on vaping and nicotine products, including banning sales to under 18s, prohibiting vending machines, restricting advertising and sponsorship, and enabling the creation of vape-free public places. Additionally, the bill establishes retail licensing schemes and enhances enforcement powers for these products.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "mixed",
+        "summary": "The bill will negatively impact the tobacco and vaping retail sectors, leading to reduced sales and potential job losses, but may generate long-term economic benefits through a healthier workforce.",
+        "detail": "The generational ban and stricter regulations on tobacco and vaping products will inevitably lead to a decline in sales for businesses in these sectors, potentially resulting in closures, reduced revenue, and job losses for retailers, manufacturers, and distributors. There will also be compliance costs for businesses that continue to operate, such as implementing new age verification systems and obtaining licenses. However, a healthier population, resulting from reduced smoking and vaping prevalence, is expected to lead to increased productivity, fewer sick days, and a longer working life for citizens, offering long-term economic gains that could offset initial negative impacts on specific industries. The shift in consumer spending away from these products might also stimulate other sectors of the economy."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "mixed",
+        "summary": "The government will face increased enforcement costs and a significant reduction in tobacco duty revenue, partially offset by potential savings in healthcare expenditure and new licensing fees.",
+        "detail": "Implementing and enforcing the extensive new regulations, including the generational ban, retail licensing, and advertising restrictions, will require substantial investment in local authority enforcement teams and regulatory bodies, leading to increased government expenditure. A major financial impact will be the long-term decline in tobacco duty revenue, which currently contributes billions to the Treasury, as smoking rates decrease. While new licensing fees for retailers of tobacco and vaping products will generate some revenue, this is unlikely to fully compensate for lost excise duties. However, a healthier population will lead to significant long-term savings for the National Health Service by reducing the burden of treating smoking and vaping-related illnesses, which could ultimately result in a net positive impact on government finances over several decades."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "mixed",
+        "summary": "The generational ban creates a legal distinction based on birth date, which could be seen as discriminatory, but is justified by the public health goal of preventing addiction in future generations.",
+        "detail": "The core policy of prohibiting tobacco sales to individuals born on or after 1 January 2009 creates a permanent legal distinction, meaning future adults will be denied a product legally accessible to older generations. This could be perceived as discriminatory against a specific age cohort. However, the bill's intent is to protect future generations from the known harms of nicotine addiction and associated health inequalities, particularly given that smoking disproportionately affects disadvantaged groups. From a public health justice perspective, preventing addiction in a new generation is seen as a proactive measure to reduce health disparities and improve overall societal well-being, providing a strong rationale for the differential treatment."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "negative",
+        "summary": "The bill significantly restricts personal liberty by denying future adults the right to purchase tobacco and by limiting where and how other products can be used and advertised.",
+        "detail": "The generational tobacco ban represents a direct and permanent curtailment of personal autonomy for those born after the specified date, as they will never legally be able to purchase tobacco products, even as adults. This removes an individual's choice over a legal product. Furthermore, the expansion of vape-free and heated tobacco-free public places, alongside comprehensive advertising and sponsorship bans, restricts the freedom of adult consumers to use these products in certain environments and limits businesses' ability to promote them. While these measures are framed as necessary for public health, they undeniably reduce individual freedom and choice, shifting the balance towards collective health outcomes over individual liberty."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "positive",
+        "summary": "The bill is expected to significantly improve public health outcomes, reduce addiction, and create healthier environments, leading to a higher quality of life for citizens, especially future generations.",
+        "detail": "The primary expected impact of this bill is a substantial improvement in public health. By preventing future generations from becoming addicted to tobacco and reducing youth vaping, the bill aims to lower the incidence of smoking and vaping-related diseases, such as cancer, heart disease, and respiratory illnesses. This will lead to longer, healthier lives, reduced suffering, and a decreased burden on the healthcare system. The expansion of smoke-free, vape-free, and heated tobacco-free places will also improve air quality and reduce exposure to harmful substances for non-users, enhancing the quality of life in public and private spaces. Overall, the bill is designed to foster a healthier, less addicted society."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "positive",
+        "summary": "The bill is expected to have a positive environmental impact by reducing the production and consumption of tobacco and vaping products, thereby decreasing associated waste and pollution.",
+        "detail": "A reduction in tobacco consumption will lead to less cigarette butt litter, which is a major source of plastic pollution and releases toxic chemicals into the environment. Similarly, curbing vaping will decrease the disposal of single-use vape devices and cartridges, which contribute to electronic waste, plastic pollution, and contain hazardous materials like lithium batteries and nicotine residue. The manufacturing processes for both tobacco and vaping products also have environmental footprints, including land use for tobacco cultivation and energy consumption for electronic device production. By reducing demand for these products, the bill is likely to lessen these environmental burdens, promoting waste reduction, pollution control, and more sustainable resource use."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:18:55.895Z"
+  },
+  {
+    "bill": {
+      "billId": 3909,
+      "shortTitle": "Children’s Wellbeing and Schools Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T16:54:27.8498429",
+      "isAct": false,
+      "currentStage": {
+        "description": "Consideration of Lords amendments",
+        "abbreviation": "COLA",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3909"
+    },
+    "textAvailable": true,
+    "summary": "The Children’s Wellbeing and Schools Bill introduces wide-ranging reforms across children's social care and education in England, with some provisions extending to Wales, Scotland, and Northern Ireland. Key measures include strengthening child protection, enhancing support for children in care and care leavers, increasing regulation and financial oversight of children's social care providers, and updating rules for child employment. In education, the bill mandates free primary school breakfast clubs, limits branded school uniform costs, establishes a register for children not in school, expands regulation of independent educational institutions, extends teacher misconduct rules, and requires Academy schools to follow the National Curriculum. It also includes provisions for age assurance on VPNs and social media for children, and a smartphone ban in schools.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "mixed",
+        "summary": "The bill is expected to increase public sector employment and regulatory costs for social care and education providers, potentially hindering private sector growth in these areas, while also improving human capital through enhanced child welfare and education.",
+        "detail": "The expansion of regulation, financial oversight, and mandatory provisions (e.g., free breakfast clubs, allergy safety, smartphone bans) will likely increase operational costs for schools, children's homes, and fostering agencies, both public and private. The power to limit profits of \"relevant providers\" (Cl. 19) could disincentivize private investment and reduce the supply of care placements, potentially leading to market consolidation or reduced quality if providers struggle to meet standards under profit caps. Increased administrative burdens for LAs and schools (e.g., child registration, new reporting duties, multi-agency teams) may divert resources from frontline services. However, improved child welfare, educational attainment, and reduced homelessness for care leavers are long-term investments in human capital, which could lead to a more skilled and productive workforce in the future. The regulation of agency workers in social care (Cl. 23) might reduce costs for LAs but could also impact the flexibility and income of agency staff. The age assurance requirements for VPNs and social media (Cl. 32, 33) will impose compliance costs on technology companies, potentially affecting their operations in the UK."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "negative",
+        "summary": "The bill is expected to significantly increase government expenditure through new duties on local authorities and central government departments, with no clear offsetting revenue streams.",
+        "detail": "The establishment of multi-agency child protection teams (Cl. 4), the \"kinship local offer\" (Cl. 6), \"staying close support\" for care leavers (Cl. 8), free primary school breakfast clubs (Cl. 34), and the register for children not in school (Cl. 40) will all require substantial funding for local authorities. Expanding the scope of regulation for independent educational institutions (Cl. 45) and increasing inspections of Academy proprietors (Cl. 59) will increase costs for Ofsted and the Department for Education. The SoS's new powers for financial oversight and profit limits on care providers (Cl. 18, 19) will require new administrative and enforcement mechanisms. While monetary penalties (Cl. 17, 20, 40) could generate some revenue, these are unlikely to offset the broad and ongoing costs of implementing the new duties and expanding regulatory oversight. The commitment to joint funding arrangements for deprivation of liberty accommodation (Cl. 15) will also add to health authority budgets."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "positive",
+        "summary": "The bill aims to enhance fairness and justice by providing additional protections and support for vulnerable children, particularly those in or leaving care, in kinship care, or at risk of harm, addressing existing disadvantages.",
+        "detail": "The bill explicitly targets disadvantaged groups, such as looked-after children, care leavers, and children in kinship care, by mandating increased support, information, and educational achievement promotion (Cl. 6-9). The provision that care leavers under 25 are not to be regarded as intentionally homeless (Cl. 10) directly addresses a vulnerability faced by this group, offering a safety net. The enhanced safeguarding measures, including multi-agency teams and information sharing (Cl. 3-5), are designed to protect children at risk of significant harm, who often come from marginalized backgrounds. The requirement for LA consent for withdrawal from school for vulnerable children (Cl. 39) and the register for children not in school (Cl. 40) aim to ensure that children receiving education outside mainstream settings are not overlooked or put at risk. While the smartphone ban (Cl. 73) and VPN/social media restrictions (Cl. 32, 33) apply broadly to children, they are justified as protective measures for a vulnerable age group, aiming to create a safer and more conducive learning environment, and to mitigate potential harms from online exposure."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "mixed",
+        "summary": "The bill introduces significant restrictions on the autonomy of parents, children, and private providers, but these are largely justified by the compelling state interest in safeguarding and promoting the welfare of children.",
+        "detail": "Parental autonomy is restricted by the requirement for LA consent to withdraw certain vulnerable children from school (Cl. 39) and the mandatory meetings for parents considering home education (Cl. 39). The new register for children not in school (Cl. 40) and associated information duties also reduce parental privacy and control over educational choices. For children, the prohibition of smartphones in schools (Cl. 73) and the age assurance for VPNs and social media (Cl. 32-33) restrict personal choices and access to digital services. These restrictions are justified by the state's role as parens patriae, aiming to protect children from harm, ensure suitable education, and promote their overall wellbeing, which are compelling public interests. For private social care providers, the financial oversight and profit limits (Cl. 18-19) restrict their commercial autonomy, justified by the need to ensure stability and value for money in a critical public service. The expanded powers of entry and investigation for Ofsted (Cl. 51) also limit the autonomy of independent educational institutions, but are necessary for ensuring compliance with safeguarding and educational standards."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "positive",
+        "summary": "The bill is expected to significantly improve the welfare and quality of life for children, particularly those in vulnerable circumstances, through enhanced safeguarding, educational support, and a safer environment in schools and online.",
+        "detail": "The comprehensive measures in Part 1, such as family group decision-making (Cl. 1), multi-agency child protection teams (Cl. 4), and improved information sharing (Cl. 5), are designed to identify and intervene earlier to protect children from harm. The expanded support for children in care, care leavers, and kinship carers (Cl. 6-10) directly addresses critical needs like housing, education, and financial literacy, which are vital for successful transitions to adulthood. In schools, free breakfast clubs (Cl. 34) can improve nutrition and concentration, while limits on uniform costs (Cl. 38) reduce financial burdens on families. Allergy safety provisions (Cl. 72) will enhance physical safety, and the smartphone ban (Cl. 73) aims to reduce distractions, cyberbullying, and improve mental health and learning environments. The age assurance for VPNs and social media (Cl. 32-33) seeks to shield children from inappropriate online content and interactions, contributing to their mental and emotional wellbeing."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "neutral",
+        "summary": "The bill's provisions are primarily focused on social care and education policy, with no direct or indirect expected impact on the environment.",
+        "detail": "The Children’s Wellbeing and Schools Bill does not contain any clauses or provisions that directly or indirectly relate to environmental protection, sustainability, climate change, or resource management. Its scope is entirely confined to the social and educational sectors, aiming to improve outcomes for children and young people. While some provisions might involve minor construction or renovation of school facilities (e.g., for breakfast clubs), these are not of a scale or nature to have a discernible environmental impact, nor do they introduce any new environmental policies or regulations. Therefore, the bill is expected to have a neutral impact on the environment."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:19:39.449Z"
+  },
+  {
+    "bill": {
+      "billId": 3774,
+      "shortTitle": "Terminally Ill Adults (End of Life) Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T16:45:24.3846383",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3774"
+    },
+    "textAvailable": true,
+    "summary": "This bill establishes a legal framework for terminally ill adults in England and Wales to request and be provided with assistance to end their own life. It outlines stringent eligibility criteria, a multi-stage assessment process involving multiple medical practitioners and an independent review panel, and robust safeguards against coercion. The bill also creates a Voluntary Assisted Dying Commissioner to oversee the process and ensure compliance with the Act's provisions.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "neutral",
+        "summary": "The bill's direct economic impact is expected to be minimal, primarily involving administrative costs for new oversight bodies and potential, minor shifts in healthcare expenditure.",
+        "detail": "The establishment of the Voluntary Assisted Dying Commissioner, Assisted Dying Review Panels, and mandatory training for medical professionals will incur new administrative costs for the public sector. While there might be some offsetting savings from reduced long-term palliative care for individuals who choose assisted dying, these are likely to be marginal in the broader context of the healthcare economy. No significant changes in overall economic growth, productivity, or private sector activity are anticipated as a direct result of this legislation, beyond the creation of a new, highly regulated service within the health sector."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "negative",
+        "summary": "The bill will introduce new government expenditures for establishing and operating oversight bodies and mandatory training, with limited offsetting savings.",
+        "detail": "The government will face new costs associated with the creation and ongoing operation of the Voluntary Assisted Dying Commissioner's office, including staff, remuneration, and allowances, as detailed in Schedule 1. Additionally, the establishment and functioning of Assisted Dying Review Panels (Schedule 2) and the mandatory training for coordinating and independent doctors (Sections 8, 11) will require significant public funding. While there may be some long-term savings in healthcare costs for individuals who choose assisted dying, these are unlikely to fully compensate for the new administrative and regulatory overhead, resulting in a net increase in government expenditure."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "mixed",
+        "summary": "The bill includes extensive safeguards to ensure fairness and prevent coercion, particularly for vulnerable groups, but the very existence of the option could still raise complex ethical and societal concerns.",
+        "detail": "The bill explicitly addresses fairness concerns by requiring mandatory training on assessing capacity, coercion, domestic abuse, and reasonable adjustments for autistic people and those with learning disabilities (Sections 8, 11). It also clarifies that disability or mental disorder alone does not constitute terminal illness (Section 2(4)) and mandates the appointment of a Disability Advisory Board (Section 48) to monitor the Act's impact on disabled people. These robust safeguards aim to ensure that the choice is truly voluntary and informed, mitigating the risk of unfair pressure on vulnerable individuals. However, despite these protections, there remains a societal concern that the availability of assisted dying could, even unintentionally, create a subtle pressure or devalue the lives of disabled or chronically ill individuals, leading to a mixed impact on fairness and justice."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "positive",
+        "summary": "The bill significantly enhances personal liberty and autonomy by providing terminally ill adults with a legal option to choose the timing and manner of their death.",
+        "detail": "By legalizing assisted dying under strict conditions, the bill grants terminally ill individuals greater control over their end-of-life decisions, a fundamental aspect of personal liberty. The extensive procedural safeguards, including multiple medical assessments, reflection periods, and independent panel review, are designed to ensure that the decision to seek assistance is genuinely voluntary, informed, and free from external pressure or coercion (Sections 8-19). This framework empowers individuals to exercise their autonomy in the face of terminal illness, offering a dignified choice that was previously unavailable, thereby positively impacting their liberty and self-determination."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "positive",
+        "summary": "For eligible individuals, the bill is expected to improve welfare by offering a dignified end to suffering and promoting comprehensive end-of-life care discussions.",
+        "detail": "For terminally ill adults who meet the strict criteria and choose this option, the bill offers a pathway to end their suffering with dignity and control, potentially improving their overall welfare and quality of life in their final stages. The requirement for preliminary discussions to include comprehensive information on diagnosis, prognosis, and all available palliative, hospice, or other care (Section 5(5), 12(2)(c)) is expected to promote better access to and awareness of end-of-life support services. While the existence of such an option could cause distress for some, the rigorous safeguards and focus on informed choice aim to ensure that it serves as a compassionate alternative for those facing intractable suffering, thereby contributing positively to overall welfare."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "neutral",
+        "summary": "The bill focuses exclusively on end-of-life care for individuals and is not expected to have any direct or indirect impact on the environment.",
+        "detail": "The provisions of the Terminally Ill Adults (End of Life) Bill are entirely confined to the regulation and administration of assisted dying services for eligible individuals. The processes involved, such as medical assessments, administrative oversight, and the provision of approved substances, have a negligible environmental footprint. There are no foreseeable first-order or second-order effects on natural resources, pollution levels, biodiversity, or climate change. Therefore, the bill is considered to have a neutral impact on the environment."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:20:07.923Z"
+  },
+  {
+    "bill": {
+      "billId": 3968,
+      "shortTitle": "Victims and Courts Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T16:43:33.0847106",
+      "isAct": false,
+      "currentStage": {
+        "description": "Report stage",
+        "abbreviation": "RS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3968"
+    },
+    "textAvailable": true,
+    "summary": "This bill aims to enhance the experience of victims within the criminal justice system by compelling offenders to attend sentencing hearings and restricting parental responsibility for serious sex offenders and fathers of children conceived by rape. It expands victims' rights to disclose criminal conduct, make representations, and receive information about offenders, while also strengthening the role of the Victims' Commissioner. Additionally, it includes provisions for Crown Prosecutors, private prosecution costs, sentencing reviews, and summary conviction terms.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "mixed",
+        "summary": "The bill's impact on the economy is mixed, with potential efficiency gains in court proceedings offset by increased administrative and legal costs associated with expanded victim services and new parental responsibility orders.",
+        "detail": "Compelling offender attendance at sentencing (Sections 1-2) may reduce court delays and associated costs, potentially improving the efficiency of the justice system. Changes to Crown Prosecutor appointments (Section 11) could broaden the talent pool, leading to more efficient prosecution. However, the significant expansion of victims' rights and services (Schedule 2) will require increased public sector resources for probation services, local authorities, and tribunals, leading to higher operational costs. The new mandatory prohibited steps orders (Sections 3-5) could also generate additional caseloads for family courts and social services, incurring further administrative and legal expenses. The net effect on overall economic growth and productivity is likely to be minor, with some efficiency improvements balanced by new financial burdens."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "negative",
+        "summary": "The bill is expected to increase government expenditure due to expanded victim support services, new duties for local authorities and probation services, and the administrative costs of enforcing new legal provisions.",
+        "detail": "The most significant financial impact will be an increase in government expenditure. The expansion of victims' rights to make representations and receive information (Schedule 2) will necessitate additional staffing and resources for probation services, mental health tribunals, and hospital managers. The Victims' Commissioner's enhanced powers and duty to report on compliance (Sections 8-10), including cooperation on anti-social behaviour, will also incur costs for the Commissioner's office and cooperating bodies. The mandatory prohibited steps orders (Sections 3-5) will likely increase the workload for family courts and local authorities, requiring more funding. While compelling attendance at sentencing may reduce some court-related costs, the enforcement of prison sanctions for non-compliance could add to correctional expenses. Overall, the bill's focus on enhancing victim support and introducing new legal processes points towards a net increase in public spending."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "positive",
+        "summary": "The bill significantly enhances victims' rights and aims to create a more victim-centric justice system, particularly for those affected by serious sexual offences, domestic abuse, and anti-social behaviour, promoting greater fairness.",
+        "detail": "The bill's primary objective is to improve the experience of victims, which directly contributes to fairness and justice. By expanding victims' rights to information, representations, and victim impact statements (Schedule 2), it gives a stronger voice to those who have suffered harm, addressing historical imbalances where victims often felt overlooked. The mandatory restriction of parental responsibility for serious sex offenders and fathers of children conceived by rape (Sections 3-4) is a targeted measure to protect vulnerable children, which, while restricting offenders' rights, is justified by the severe nature of the crimes and the need for child safeguarding. The Victims' Commissioner's enhanced ability to act in individual cases and oversee compliance with the victims' code (Sections 8-10) further strengthens accountability and ensures victims' entitlements are met, leading to a more equitable and compassionate justice system."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "mixed",
+        "summary": "The bill restricts the liberty and autonomy of convicted offenders by compelling court attendance and limiting parental responsibility, and also restricts contractual autonomy by voiding agreements that preclude disclosure of criminal conduct.",
+        "detail": "The bill introduces several significant restrictions on liberty and autonomy. Sections 1 and 2 compel convicted offenders to attend their sentencing hearings, backed by the threat of prison sanctions for non-compliance, directly limiting their freedom of movement and choice. Sections 3 and 4 impose mandatory 'prohibited steps orders' on certain serious sex offenders and fathers of children conceived by rape, severely curtailing their parental responsibility and decision-making power over their children. While these measures are justified by the need for public safety and child protection, they represent a clear curtailment of individual rights. Additionally, Section 6 voids agreements that prevent victims from disclosing criminal conduct, which restricts the contractual autonomy of individuals and organisations, albeit to empower victims and prevent them from being silenced."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "positive",
+        "summary": "The bill is expected to improve the welfare and quality of life for victims by providing enhanced support, greater access to information, a stronger voice within the justice system, and by strengthening child protection measures.",
+        "detail": "The bill's comprehensive focus on victims' rights and support is expected to have a positive impact on their welfare and quality of life. Providing victims with more information about offenders' release, licence conditions, and mental health disposals (Schedule 2) can reduce anxiety and enhance their sense of safety. The ability to make representations and provide victim impact statements (Schedule 2) offers a crucial outlet for victims to be heard and acknowledged, which is vital for psychological recovery. The mandatory restriction of parental responsibility for serious sex offenders and rapists (Sections 3-4) directly protects children and provides greater security for families. Expanding the Victims' Commissioner's remit to include anti-social behaviour (Section 9) could lead to more effective responses to issues that significantly degrade community welfare. These measures aim to mitigate the long-term impacts of crime and improve victims' overall well-being."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "neutral",
+        "summary": "The bill primarily addresses criminal justice procedures and victim support, with no direct or indirect provisions that are expected to impact the environment.",
+        "detail": "The Victims and Courts Bill is exclusively focused on reforms within the criminal justice system, enhancing victim support, and adjusting related administrative and procedural frameworks. There are no clauses, schedules, or implied consequences within the bill's text that pertain to environmental protection, resource management, climate change, biodiversity, or any other aspect of the natural environment. Therefore, the implementation and effects of this bill are not expected to have any discernible positive or negative impact on the environment."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:20:34.878Z"
+  },
+  {
+    "bill": {
+      "billId": 3982,
+      "shortTitle": "Pension Schemes Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T12:09:52.3891673",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3982"
+    },
+    "textAvailable": true,
+    "summary": "The Pension Schemes Bill introduces significant reforms to UK pension schemes, aiming to enhance value for money and consolidate defined contribution pensions, particularly small dormant pots. It establishes a new regulatory framework for defined benefit superfunds and streamlines the management of local government pension schemes. Additionally, the Bill addresses the retrospective validation of certain historic scheme alterations and updates provisions related to pension protection and information sharing.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "positive",
+        "summary": "The Bill is expected to boost economic growth and productivity by driving efficiency, consolidating assets, and encouraging investment in productive UK assets.",
+        "detail": "By mandating value for money assessments, promoting consolidation of small dormant pension pots, and introducing scale requirements for large DC schemes, the Bill aims to reduce administrative costs and improve investment returns. The focus on 'qualifying assets' (e.g., private equity, venture capital) for a portion of default funds is intended to unlock capital for long-term, productive investments in the UK economy, potentially stimulating growth and innovation. The new regulatory framework for DB superfunds offers a de-risking pathway for employers, which could free up corporate capital for core business investment. While the £25bn scale threshold could lead to market consolidation, the overall drive for efficiency and strategic investment is anticipated to yield net economic benefits."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "mixed",
+        "summary": "The Bill will incur significant regulatory costs for implementation and oversight, but could see indirect revenue benefits from economic growth and changes to PPF levies.",
+        "detail": "Implementing the extensive new regulatory frameworks for DC value for money, small pot consolidation, scale and asset allocation, guided retirement, and superfunds will require substantial investment in resources and expertise for The Pensions Regulator (TPR) and the Financial Conduct Authority (FCA). These costs may be partially offset by application fees for superfund authorisation and other regulatory charges. Changes to PPF levies, making them discretionary and introducing a risk factor for schemes without substantive employer covenants, could alter PPF income. While successful economic growth could indirectly increase tax revenues, the direct and immediate impact on government finances is likely to be a net increase in expenditure for regulatory bodies."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "positive",
+        "summary": "The Bill promotes fairness by improving outcomes for less engaged pension savers and addressing systemic issues, without unfairly penalising specific groups.",
+        "detail": "The consolidation of small dormant pension pots and the introduction of value for money assessments are designed to benefit individuals with fragmented work histories or lower financial literacy, who are often disproportionately affected by high fees and lost pots. The 'guided retirement' provisions aim to help members make better decumulation choices, improving financial security for many. Retrospective validation of certain historic DB scheme alterations addresses a systemic legal uncertainty, protecting the stability of schemes and the interests of all members rather than privileging one group. The extension of the terminal illness definition for PPF/FAS access from 6 to 12 months is a compassionate measure, providing earlier financial support to vulnerable individuals."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "mixed",
+        "summary": "The Bill introduces some restrictions on individual and scheme autonomy, justified by the need to protect members from poor outcomes and systemic risks.",
+        "detail": "The automatic consolidation of small dormant pension pots, while allowing for opt-out, represents a default intervention in individual savings, limiting passive autonomy. Similarly, schemes failing value for money or scale requirements may be compelled to transfer members to better-performing alternatives, restricting the autonomy of scheme trustees/managers. However, these measures are justified by the objective of safeguarding members' long-term financial interests against erosion by fees, poor performance, or lost pots. The regulatory frameworks for superfunds and default arrangements also impose restrictions, but these are necessary to ensure the security and integrity of complex pension structures, ultimately protecting member benefits."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "positive",
+        "summary": "The Bill is expected to significantly improve the financial security and reduce administrative burden for many pension savers, enhancing their overall quality of life.",
+        "detail": "By driving better value for money, consolidating small pots, and guiding retirement decisions, the Bill aims to increase the size and sustainability of pension incomes for millions of DC members. This improved financial security in retirement will directly enhance welfare. The simplification of managing multiple small pots and clearer guidance on decumulation options will reduce stress and administrative burden for individuals. The extension of the terminal illness definition for accessing PPF/FAS benefits provides earlier financial relief to those facing severe illness, improving their quality of life during a challenging period. Overall, the Bill's focus on member outcomes and efficiency is anticipated to have a broad positive impact on citizens' welfare."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "neutral",
+        "summary": "The Bill does not contain explicit environmental provisions, though indirect benefits could arise if 'qualifying assets' or 'responsible investment' are directed towards green initiatives.",
+        "detail": "The primary objectives of the Bill are financial stability, efficiency, and member outcomes, with no direct mandates or incentives for environmental protection or sustainable investment. While the Bill introduces 'responsible investment' considerations for LGPS and a requirement for DC schemes to invest in 'qualifying assets' (which could include infrastructure or private equity), these terms do not explicitly favour environmentally beneficial investments. Any positive environmental impact would be a second-order effect, contingent on future regulatory interpretations and the investment decisions made within the broad categories of 'qualifying assets' and 'responsible investment' strategies, rather than a direct outcome of the Bill itself."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:21:13.115Z"
+  },
+  {
+    "bill": {
+      "billId": 4002,
+      "shortTitle": "English Devolution and Community Empowerment Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T10:06:19.5174769",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4002"
+    },
+    "textAvailable": true,
+    "summary": "The English Devolution and Community Empowerment Bill aims to deepen devolution within England by establishing and empowering various 'strategic authorities' like combined authorities, combined county authorities, and the Greater London Authority. It transfers significant functions in areas such as transport, planning, housing, skills, economic development, and public safety to these local bodies and their mayors. Additionally, the Bill introduces reforms to local government governance, local audit, and business tenancy regulations, alongside new national minimum standards for taxi and private hire vehicle licensing.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "positive",
+        "summary": "The Bill is expected to foster economic growth and productivity by enabling more tailored local strategies, improving infrastructure, and better aligning skills development with regional needs.",
+        "detail": "Devolution of powers in economic development, regeneration, transport, and skills to strategic authorities (Part 2, sections 38-43, Schedules 19, 20) is anticipated to lead to more responsive and effective local economic strategies. This could attract investment, stimulate local business growth, and enhance productivity by addressing specific regional challenges and opportunities. Improved local transport infrastructure (sections 23-30, Schedules 5-10) can reduce business costs and improve connectivity, while tailored skills and employment support (section 31, Schedule 11) can better match the workforce to local industry demands. The extension of the general power of competence (section 20, Schedule 4) provides flexibility for local authorities to innovate in promoting economic well-being. While there's a risk of fragmentation, the emphasis on local growth plans and collaboration (section 22) suggests a net positive impact on regional economies."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "mixed",
+        "summary": "The Bill grants strategic authorities greater financial autonomy through new powers to precept, borrow, and levy, but also introduces new administrative costs and a central audit body.",
+        "detail": "Strategic authorities will gain increased financial flexibility with powers to issue precepts (section 11), borrow (section 12), and impose levies (section 13), potentially reducing their reliance on central government funding for devolved functions. This could lead to more efficient local resource allocation and investment in priority areas. However, the establishment and operation of the new Local Audit Office (Part 4, sections 74-84, Schedules 31-33) will incur central government costs, although it aims to improve accountability and financial management across local government. Strategic authorities will also face increased administrative burdens and costs associated with managing new functions and financial responsibilities, which may be passed on to local taxpayers through increased precepts or levies, leading to a mixed overall impact on government finances."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "positive",
+        "summary": "The Bill promotes fairness by empowering communities to protect local assets, mandating a focus on health inequalities, and enhancing public safety standards in transport.",
+        "detail": "The 'Community right to buy assets of community value' (section 63, Schedule 29) empowers local groups to safeguard cherished amenities, fostering local ownership and preventing their loss, which is a significant step towards community justice. The explicit 'Health improvement and health inequalities duty' (section 44) requires strategic authorities to actively work towards reducing disparities in health outcomes, directly benefiting disadvantaged populations. National minimum standards for taxi and private hire vehicle licensing (Chapter 3 Part 3, sections 64-72) aim to ensure consistent safety and quality of service, which can particularly benefit vulnerable users. The disqualification of sitting MPs/MSPs/MLAs from mayoral roles (section 16) ensures dedicated local leadership, promoting a more focused and accountable local democracy."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "mixed",
+        "summary": "The Bill significantly enhances the autonomy of strategic authorities and mayors, but may reduce the autonomy of individual constituent councils and impose central standards in some areas.",
+        "detail": "The core of the Bill is to devolve significant powers and functions to strategic authorities and their mayors (Parts 1 & 2), granting them greater autonomy to make decisions tailored to their local areas. This is a positive for local self-determination. However, this increased mayoral and strategic authority power may come at the expense of the autonomy of individual constituent councils, which will be required to align with strategic authority plans (e.g., section 29 on transport). The introduction of national minimum standards for taxi and private hire vehicle licensing (sections 64-72) represents a central government imposition on local licensing authorities, limiting their discretion in this specific domain. Furthermore, the duty for mayors to collaborate (section 22) and the shift towards leader and cabinet executives for local authorities (Schedule 27) indicate a move towards more centralized decision-making within local government structures, potentially restricting the autonomy of alternative governance models."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "positive",
+        "summary": "The Bill is expected to improve citizens' welfare and quality of life through better local services in housing, transport, education, health, and public safety.",
+        "detail": "Devolving powers in key areas like transport, housing, skills, and health (Part 2) allows strategic authorities to address local needs more directly and effectively. This could lead to more efficient and integrated public services, such as improved local transport networks, better provision of housing accommodation (sections 32-37, Schedule 17), and skills training that meets local employment demands (section 31, Schedule 11). The explicit duty to improve health and reduce health inequalities (section 44) is a direct benefit to public welfare. Enhanced public safety functions (sections 45-50) and the 'Community right to buy assets of community value' (section 63) further contribute to safer, more cohesive, and amenity-rich communities, thereby improving overall quality of life for residents."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "mixed",
+        "summary": "The Bill explicitly includes environment and climate change as areas of competence for strategic authorities, and introduces measures for micromobility and road traffic reduction, but overall impact depends on local implementation.",
+        "detail": "The designation of 'the environment and climate change' as an 'area of competence' (section 2) for strategic authorities is a positive foundational step, ensuring environmental considerations are integrated into devolved decision-making. Specific provisions like the regulation of micromobility vehicles (section 23, Schedule 5) have the potential to promote sustainable transport options, reducing reliance on private cars and improving urban air quality. Furthermore, the transfer of duties related to 'road traffic reduction' (Schedule 9, Part 2) and the inclusion of 'environmental factors, including air quality and access to green space and bodies of water' in the health inequalities duty (section 44) are direct environmental positives. However, the actual impact will largely depend on the specific policies and priorities adopted by individual strategic authorities, which may vary and could, in some instances, prioritize economic development over environmental protection."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:22:08.216Z"
+  },
+  {
+    "bill": {
+      "billId": 3779,
+      "shortTitle": "Rare Cancers Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-12T09:35:58.3397241",
+      "isAct": false,
+      "currentStage": {
+        "description": "3rd reading",
+        "abbreviation": "3R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3779"
+    },
+    "textAvailable": true,
+    "summary": "The Rare Cancers Bill aims to incentivize research and investment into treatments for rare types of cancer. It mandates the Secretary of State to review laws on marketing authorisations for orphan medicinal products and strengthens the duty to facilitate research into rare cancers, including appointing a National Specialty Lead. The Bill also enables NHS England to disclose information for identifying potential participants in rare cancer clinical trials, while explicitly safeguarding data protection.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "positive",
+        "summary": "The bill is expected to stimulate research and development in the pharmaceutical and biotech sectors, potentially leading to new treatments and job creation. Improved health outcomes for rare cancer patients could also boost workforce participation and productivity.",
+        "detail": "By incentivizing research and investment, the bill could foster innovation within the UK's life sciences sector. The review of marketing authorisations (Section 1) might lead to more streamlined or attractive regulatory pathways, encouraging pharmaceutical companies to invest more in the UK. The explicit duty to facilitate research and the appointment of a National Specialty Lead (Section 2) could improve the efficiency and coordination of rare cancer research, attracting both public and private funding. Successful development of new treatments would not only create high-value jobs in R&D and manufacturing but also reduce the long-term economic burden of illness by improving patient health and productivity."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "mixed",
+        "summary": "The bill will incur direct costs for conducting reviews, appointing new roles, and facilitating research, but could lead to long-term savings from improved public health and reduced healthcare burdens.",
+        "detail": "There will be direct costs associated with implementing the bill. The Secretary of State must conduct a review and publish a report (Section 1), which requires resources. The appointment of a 'National Specialty Lead for Rare Cancers' (Section 2) will create a new salaried position and associated administrative overheads. Facilitating research and establishing arrangements for identifying clinical trial participants will also require funding and operational costs for the NHS. However, successful research leading to more effective treatments could reduce long-term NHS costs associated with managing advanced rare cancers, hospital stays, and palliative care. The initial outlay is clear, while potential savings are prospective and depend on the success of the incentivized research."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "positive",
+        "summary": "The bill specifically targets rare cancer patients, a historically underserved and disadvantaged group in terms of research and treatment options, thereby promoting health equity.",
+        "detail": "Rare cancer patients often face significant challenges, including delayed diagnosis, limited treatment options, and a lack of dedicated research compared to more common cancers. This bill directly addresses this disparity by mandating increased focus and investment in rare cancer research and development. By defining 'rare cancer' as affecting not more than 1 in 2000 people, the bill identifies a specific, disadvantaged minority group within the broader patient population. The provisions aim to rectify an existing imbalance, ensuring that these patients receive more equitable attention and resources, which is a just and fair approach to healthcare provision. While it 'privileges' this group, it does so for a very good reason: to address a current systemic disadvantage."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "neutral",
+        "summary": "The bill does not restrict personal liberty; instead, it enhances patient autonomy by facilitating access to clinical trials and potential new treatments, while safeguarding data protection.",
+        "detail": "The bill's provisions, particularly Section 3 regarding the disclosure of information for research purposes, explicitly state that the power to process information does not authorise contravention of data protection legislation (subsections 6A and 6B). This means that any identification and contact of potential clinical trial participants would need to adhere to existing data protection laws, including requirements for consent or other lawful bases for processing. Therefore, individuals' control over their personal data is maintained. By potentially expanding access to clinical trials and innovative treatments, the bill could be seen as enhancing the autonomy of rare cancer patients by offering more choices and opportunities for care."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "positive",
+        "summary": "By accelerating research and development into rare cancer treatments, the bill has the potential to significantly improve health outcomes, extend lives, and enhance the quality of life for patients and their families.",
+        "detail": "The primary aim of the bill is to incentivize research and investment into rare cancer treatments. If successful, this will lead to the development of more effective diagnostic tools and therapies. For individuals diagnosed with rare cancers, this could mean earlier diagnosis, more targeted and effective treatments, reduced suffering, and potentially extended survival. Improved health outcomes directly translate to a better quality of life for patients, allowing them to live more fulfilling lives. Furthermore, the emotional and financial burden on families of rare cancer patients could be alleviated by better treatment options and support, contributing to overall societal welfare."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "neutral",
+        "summary": "The bill focuses exclusively on healthcare policy and medical research, with no direct or indirect provisions that would impact the environment.",
+        "detail": "The Rare Cancers Bill is entirely concerned with public health, medical research, and pharmaceutical regulation. Its provisions relate to reviews of marketing authorisations, research duties, and data disclosure for clinical trials. There are no clauses or foreseeable secondary effects that would either benefit or harm the natural environment, resource consumption, pollution levels, or climate change initiatives. The activities it promotes, such as laboratory research and clinical trials, are standard medical practices that typically have negligible direct environmental impact at a policy level."
+      }
+    ],
+    "analysedAt": "2026-02-15T18:22:32.693Z"
+  }
+]

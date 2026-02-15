@@ -1,66 +1,71 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+import { getAllBills } from "@/lib/data";
+import BillCard from "@/components/BillCard";
 
-export default function Home() {
+export default function HomePage() {
+  const bills = getAllBills();
+  const analysedCount = bills.filter((b) => b.textAvailable).length;
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
+    <>
+      <section className="hero">
+        <h1>UK Parliament Bill Analyser</h1>
+        <p>
+          Every bill analysed across economic, social, and environmental
+          dimensions — powered by AI, grounded in the full legislative text.
+        </p>
+      </section>
+
+      {bills.length > 0 && (
+        <div className="stats-bar">
+          <div className="stat">
+            <div className="stat-value">{bills.length}</div>
+            <div className="stat-label">Bills Tracked</div>
+          </div>
+          <div className="stat">
+            <div className="stat-value">{analysedCount}</div>
+            <div className="stat-label">Fully Analysed</div>
+          </div>
+          <div className="stat">
+            <div className="stat-value">6</div>
+            <div className="stat-label">Dimensions</div>
+          </div>
+        </div>
+      )}
+
+      {bills.length === 0 ? (
+        <div className="empty-state">
+          <h2>No bills analysed yet</h2>
           <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
+            Run the fetch-and-analyse script to populate the data. You&apos;ll need
+            a Gemini API key.
           </p>
+          <code>
+            GEMINI_API_KEY=your-key npx tsx scripts/fetch-and-analyse.ts
+            --limit=5
+          </code>
         </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
+      ) : (
+        <div className="bill-grid">
+          {bills.map((bill) => (
+            <BillCard
+              key={bill.bill.billId}
+              billId={bill.bill.billId}
+              title={bill.bill.shortTitle}
+              summary={bill.summary}
+              currentHouse={bill.bill.currentHouse}
+              isAct={bill.bill.isAct}
+              stage={bill.bill.currentStage?.description || null}
+              textAvailable={bill.textAvailable}
+              billUrl={bill.bill.billUrl}
+              impacts={bill.categories.map((c) => ({
+                name: c.name,
+                icon: c.icon,
+                impact: c.impact,
+              }))}
             />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+          ))}
         </div>
-      </main>
-    </div>
+      )}
+    </>
   );
 }
