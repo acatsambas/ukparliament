@@ -159,6 +159,8 @@ IMPORTANT INSTRUCTIONS:
 - Account for behavioural incentives — how will people change their behaviour in response?
 - Conduct a cost-benefit analysis — if there are both positive and negative effects, estimate the net impact
 - Be specific and evidence-based where possible
+- Check whether similar legislation has been passed elsewhere, and analyse its impact
+- Use data to substantiate your analysis; for example, where estimating the impact on the economy or government finances, show cost estimates and explain your assumptions. If a policy affects a particular group, estimate its size.
 
 DIMENSIONS:
 1. Economy: expected impact on growth and productivity
