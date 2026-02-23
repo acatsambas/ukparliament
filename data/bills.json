@@ -914,5 +914,128 @@
       }
     ],
     "analysedAt": "2026-02-15T19:09:52.221Z"
+  },
+  {
+    "bill": {
+      "billId": 4046,
+      "shortTitle": "National Insurance Contributions (Employer Pensions Contributions) Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-20T17:33:05.6985941",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4046"
+    },
+    "textAvailable": true,
+    "summary": "This bill amends social security legislation to make employer pension contributions funded through salary sacrifice schemes (optional remuneration arrangements) liable to National Insurance contributions, effective from the 2029-30 tax year. It mandates the creation of a tax-free allowance, initially set at £2,000 per year, ensuring that only sacrificed amounts exceeding this threshold are subject to the new liability.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "mixed",
+        "summary": "The bill increases labor costs for businesses using salary sacrifice schemes but removes a market distortion that favored specific remuneration structures.",
+        "detail": "By imposing National Insurance Contributions (NICs) on salary sacrifice amounts over £2,000, the bill effectively raises the cost of employment for firms that previously benefited from the 13.8% employer NIC saving on these contributions. This increase in the tax wedge may dampen wage growth or hiring, particularly in sectors with generous pension packages. However, it eliminates an economic distortion where remuneration via pension was artificially cheaper than cash wages, potentially leading to a more efficient allocation of resources, though the net impact on immediate economic growth is likely slightly negative due to the increased tax burden."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "positive",
+        "summary": "The bill is a revenue-raising measure that closes a significant tax base erosion loophole, projected to increase Exchequer receipts from 2029 onwards.",
+        "detail": "Currently, the government loses substantial revenue because salary sacrifice reduces the gross pay on which both employer and employee NICs are levied. By bringing these contributions (above the £2,000 threshold) into the NICs net, the Treasury will recapture a significant portion of this foregone revenue. While the £2,000 allowance limits the total yield compared to a full abolition of the relief, the policy represents a structural strengthening of the tax base, helping to fund public services or reduce deficits in the long term."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "positive",
+        "summary": "The bill addresses a regressive anomaly, as salary sacrifice schemes are disproportionately utilized by higher earners and are often inaccessible to those on minimum wage.",
+        "detail": "Salary sacrifice arrangements are inherently inequitable because employees cannot sacrifice salary if it drops their earnings below the National Minimum Wage, excluding the lowest-paid workers from this tax advantage. Furthermore, these schemes are more prevalent in large corporations than in SMEs. By capping the unlimited NICs advantage, the bill reduces the disparity between high earners with sophisticated pay arrangements and lower earners or those in standard payroll setups. The £2,000 threshold further ensures that modest savers are not penalized, targeting the tax increase at those with greater financial capacity."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "neutral",
+        "summary": "The bill alters the fiscal incentives for voluntary financial arrangements but does not restrict the freedom to enter into them.",
+        "detail": "Employers and employees remain free to negotiate remuneration packages, including salary sacrifice for pensions. The bill merely changes the tax treatment of such choices rather than prohibiting them. While it reduces the financial autonomy gained through tax optimization, it does not infringe upon civil liberties or the legal right to dispose of one's income, representing a standard adjustment of fiscal policy rather than a constraint on personal freedom."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "negative",
+        "summary": "By reducing the tax efficiency of pension contributions, the bill creates a disincentive to save for retirement, potentially leading to smaller pension pots.",
+        "detail": "A key benefit of current salary sacrifice schemes is that many employers pass on their 13.8% NIC savings to the employee's pension pot, boosting retirement savings at no extra cost to the worker. This bill removes that incentive for contributions above £2,000, likely causing employers to cease these top-up payments. Consequently, employees may see a reduction in the compound growth of their retirement funds, exacerbating the risk of under-saving for old age and potentially reducing future quality of life for middle-income earners."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "neutral",
+        "summary": "The bill is a fiscal instrument regarding pension taxation and has no direct or significant impact on environmental outcomes.",
+        "detail": "The provisions strictly concern the definition of remuneration for National Insurance purposes and the taxation of pension contributions. There are no clauses related to green investment, carbon emissions, or environmental protection. While changes in disposable income can theoretically alter consumption patterns, the link here is too remote to assign a meaningful environmental impact rating."
+      }
+    ],
+    "analysedAt": "2026-02-23T09:54:42.147Z"
+  },
+  {
+    "bill": {
+      "billId": 4034,
+      "shortTitle": "Industry and Exports (Financial Assistance) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-20T16:52:46.7881138",
+      "isAct": false,
+      "currentStage": {
+        "description": "3rd reading",
+        "abbreviation": "3R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4034"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-23T09:54:44.185Z"
+  },
+  {
+    "bill": {
+      "billId": 3946,
+      "shortTitle": "Planning and Infrastructure Act 2025",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-19T17:11:09.881635",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3946"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-02-23T09:55:18.132Z"
+  },
+  {
+    "bill": {
+      "billId": 4022,
+      "shortTitle": "Northern Ireland Troubles Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-19T16:59:11.806139",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee of the whole House",
+        "abbreviation": "COTWH",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4022"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-02-23T09:55:18.168Z"
   }
 ]
