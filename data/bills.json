@@ -1037,5 +1037,25 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-02-23T09:55:18.168Z"
+  },
+  {
+    "bill": {
+      "billId": 3764,
+      "shortTitle": "Renters’ Rights Act 2025",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-02-27T16:35:08.969809",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3764"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-03-02T09:46:36.364Z"
   }
 ]
