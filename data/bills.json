@@ -1057,5 +1057,68 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-03-02T09:46:36.364Z"
+  },
+  {
+    "bill": {
+      "billId": 3972,
+      "shortTitle": "Sustainable Aviation Fuel Act 2026",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-03-06T16:38:30.2321685",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3972"
+    },
+    "textAvailable": true,
+    "summary": "The Sustainable Aviation Fuel Act 2026 introduces a 'revenue certainty contract' mechanism to guarantee prices for UK producers of sustainable aviation fuel (SAF). It funds these payments through a new levy imposed on traditional aviation fuel suppliers, aiming to stimulate domestic SAF production and decarbonize the aviation sector.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "mixed",
+        "summary": "Stimulates the domestic green tech and SAF production sectors but increases costs for the broader aviation industry and passengers.",
+        "detail": "By providing revenue certainty, similar to the successful Contracts for Difference (CfD) scheme for UK offshore wind, this bill will likely unlock significant private capital for UK-based SAF refineries, creating green jobs and boosting domestic manufacturing. However, the levy on aviation fuel suppliers will inevitably be passed on to airlines and passengers, increasing the cost of air travel. This could slightly dampen demand for aviation and related tourism, acting as a drag on those specific sectors. The net economic impact depends on the scale of the SAF industry growth versus the deadweight loss of higher aviation fuel prices."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "neutral",
+        "summary": "The scheme is primarily funded by an industry levy rather than general taxation, keeping direct government costs low, though some contingent liabilities exist.",
+        "detail": "The bill is designed to be off-balance-sheet for the core government budget by using a levy on aviation fuel suppliers to fund the revenue certainty contracts. This mirrors the funding model of the Low Carbon Contracts Company (LCCC) in the electricity sector. However, Section 14 allows the Secretary of State to provide financial assistance (grants, loans, guarantees) to the counterparty, which represents a contingent liability for the Treasury. Furthermore, the government will incur minor administrative costs in setting up the counterparty and enforcing the levy, though penalty revenues (up to 10% of turnover) will be paid into the Consolidated Fund."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "neutral",
+        "summary": "The bill applies costs to aviation fuel suppliers and consumers, adhering to the 'polluter pays' principle without unfairly penalizing disadvantaged groups.",
+        "detail": "The levy targets suppliers of fossil aviation fuels, effectively internalizing the environmental cost of carbon-intensive flying. Since frequent flyers and air travelers disproportionately belong to higher-income brackets, the downstream cost increases are generally progressive rather than regressive. It does not unfairly penalize a disadvantaged minority group; rather, it shifts the burden of decarbonization onto those who consume the most carbon-intensive transport."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "neutral",
+        "summary": "Imposes regulatory burdens and levies on corporate fuel suppliers but does not significantly restrict individual personal liberties.",
+        "detail": "The bill mandates compliance, reporting, and levy payments from aviation fuel suppliers, backed by substantial financial penalties of up to £100,000 or 10% of turnover. While this restricts the commercial autonomy of these specific corporations, it is a standard regulatory intervention for market externalities like pollution. It does not infringe on individual civil liberties or freedom of movement, though it may make flying marginally more expensive, slightly constraining consumer choices based on price."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "mixed",
+        "summary": "Long-term health and climate benefits from reduced emissions are offset by short-term increases in the cost of air travel for consumers.",
+        "detail": "SAF produces significantly fewer lifecycle carbon emissions and lower particulate matter compared to conventional jet fuel, which can marginally improve air quality around airports and contribute to global climate stability, enhancing long-term welfare. Conversely, the levy will increase ticket prices for consumers, making holidays and family visits more expensive. For the average citizen, the immediate tangible effect will be costlier flights, while the climate benefits are diffuse and long-term."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "positive",
+        "summary": "Directly incentivizes the production and adoption of sustainable aviation fuels, crucial for decarbonizing the hard-to-abate aviation sector.",
+        "detail": "Aviation is one of the most challenging sectors to decarbonize due to the high energy density requirements of flight. By guaranteeing a strike price for SAF, the bill mitigates investment risk, accelerating the transition from fossil jet fuels to low-carbon alternatives which can reduce lifecycle greenhouse gas emissions by up to 80%. Furthermore, the levy on traditional fuel suppliers creates a dual incentive: making fossil fuels more expensive while subsidizing the green alternative, effectively driving the market toward net-zero aviation targets."
+      }
+    ],
+    "analysedAt": "2026-03-09T09:50:30.578Z"
   }
 ]
