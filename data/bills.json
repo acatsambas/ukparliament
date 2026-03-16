@@ -1120,5 +1120,45 @@
       }
     ],
     "analysedAt": "2026-03-09T09:50:30.578Z"
+  },
+  {
+    "bill": {
+      "billId": 3897,
+      "shortTitle": "Malvern Hills Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-03-16T10:01:43.232812",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3897"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-03-16T10:05:01.245Z"
+  },
+  {
+    "bill": {
+      "billId": 4083,
+      "shortTitle": "Courts and Tribunals Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-03-13T17:38:12.5977393",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4083"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-03-16T10:05:03.213Z"
   }
 ]
