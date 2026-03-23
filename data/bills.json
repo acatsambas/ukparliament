@@ -1160,5 +1160,88 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-03-16T10:05:03.213Z"
+  },
+  {
+    "bill": {
+      "billId": 3755,
+      "shortTitle": "House of Lords (Hereditary Peers) Act 2026",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-03-20T17:25:23.8252043",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3755"
+    },
+    "textAvailable": true,
+    "summary": "The House of Lords (Hereditary Peers) Bill severs the remaining ties between hereditary peerages and membership in the UK's upper legislative chamber. It achieves this primarily by abolishing by-elections for hereditary peers, ensuring their presence in the House will gradually phase out through natural attrition. Additionally, it removes the House of Lords' jurisdiction over hereditary peerage claims and allows life peerages to be granted without an automatic right to sit and vote in Parliament.",
+    "categories": [
+      {
+        "name": "Economy",
+        "icon": "📈",
+        "impact": "neutral",
+        "summary": "The bill alters the constitutional composition of the upper chamber of Parliament but has no direct or significant indirect impact on macroeconomic growth or productivity.",
+        "detail": "Constitutional reforms regarding the composition of the House of Lords do not directly interact with economic levers such as taxation, trade, or industrial policy. While a more democratically legitimate or meritocratic upper house might theoretically improve the quality of long-term economic legislation, this effect is highly diffuse and impossible to quantify. The removal of a small number of hereditary peers will not change the fundamental economic incentives or regulatory environment for UK businesses. Therefore, the expected impact on GDP, productivity, and broader economic growth is negligible."
+      },
+      {
+        "name": "Government Finances",
+        "icon": "🏛️",
+        "impact": "positive",
+        "summary": "Phasing out hereditary peers will marginally reduce the overall size of the House of Lords, leading to minor savings on daily attendance allowances and administrative costs.",
+        "detail": "Members of the House of Lords do not receive a salary but are entitled to a daily attendance allowance (currently £342 per day) plus travel expenses. By abolishing by-elections for the remaining hereditary peers, the size of the House will gradually shrink as these members retire or pass away. Assuming an average attendance of 50 to 60 hereditary peers claiming the allowance for approximately 150 sitting days a year, the long-term savings could reach £2.5 million to £3 million annually. While this is a microscopic fraction of the overall UK budget, it represents a net positive for government finances by reducing the cost of the legislature."
+      },
+      {
+        "name": "Fairness & Justice",
+        "icon": "⚖️",
+        "impact": "positive",
+        "summary": "The bill removes an archaic privilege that granted legislative power based on birthright, significantly improving democratic fairness and meritocracy.",
+        "detail": "The reservation of seats in a national legislature for individuals based solely on hereditary succession is widely considered anachronistic and contrary to modern democratic principles. By phasing out the remaining hereditary peers, the bill eliminates a systemic privilege enjoyed by a tiny, predominantly male, and historically wealthy elite. This enhances the democratic legitimacy of Parliament and ensures that legislative power is not inherited. It aligns the UK's political system more closely with contemporary standards of fairness, equality, and justice, removing an unjustified structural advantage for a specific minority group."
+      },
+      {
+        "name": "Liberty & Autonomy",
+        "icon": "🗽",
+        "impact": "neutral",
+        "summary": "The bill restricts the traditional privileges of a specific aristocratic class but does not affect the personal liberties or autonomy of the general public.",
+        "detail": "The legislation removes the automatic right of hereditary peers to participate in the legislative process and abolishes the House of Lords' jurisdiction over peerage claims. While this restricts the historical privileges of a few dozen aristocratic families, holding a seat in Parliament is a public office, not a fundamental personal liberty. The bill does not infringe upon the freedom of speech, movement, or association of these peers, nor does it strip them of their titles. For the remaining 67 million UK citizens, personal autonomy and civil liberties are entirely unaffected."
+      },
+      {
+        "name": "Welfare & Quality of Life",
+        "icon": "❤️",
+        "impact": "neutral",
+        "summary": "The bill is a constitutional and procedural reform that will not directly alter the day-to-day welfare, health, or living standards of the general population.",
+        "detail": "Changes to the composition of the upper legislative chamber do not directly deliver public services, healthcare, education, or social security. While proponents might argue that a modernized Parliament could eventually pass better welfare legislation, this is a second-order effect that is highly speculative and dependent on future governments. The bill does not change any existing welfare programs or social safety nets. For the average citizen, the immediate and foreseeable impact on their tangible quality of life and daily welfare will be zero."
+      },
+      {
+        "name": "Environment",
+        "icon": "🌍",
+        "impact": "neutral",
+        "summary": "The bill focuses exclusively on parliamentary composition and has no bearing on environmental policy or outcomes.",
+        "detail": "There are no provisions in this bill related to climate change, conservation, pollution, or energy policy. The removal of hereditary peers and the restructuring of life peerages will not alter the UK's carbon footprint, environmental regulations, or land management practices. Consequently, the environmental impact of this legislation is strictly neutral."
+      }
+    ],
+    "analysedAt": "2026-03-23T10:01:59.347Z"
+  },
+  {
+    "bill": {
+      "billId": 4095,
+      "shortTitle": "Supply and Appropriation (Anticipation and Adjustments) Act 2026",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-03-20T17:22:36.0157601",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4095"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-03-23T10:02:01.956Z"
   }
 ]
