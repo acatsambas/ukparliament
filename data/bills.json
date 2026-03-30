@@ -1243,5 +1243,45 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-03-23T10:02:01.956Z"
+  },
+  {
+    "bill": {
+      "billId": 4065,
+      "shortTitle": "Armed Forces Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-03-27T10:53:29.9491764",
+      "isAct": false,
+      "currentStage": {
+        "description": "Select Committee stage",
+        "abbreviation": "SCS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4065"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-03-30T10:15:34.950Z"
+  },
+  {
+    "bill": {
+      "billId": 4019,
+      "shortTitle": "Public Office (Accountability) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-03-27T09:53:05.6378152",
+      "isAct": false,
+      "currentStage": {
+        "description": "Report stage",
+        "abbreviation": "RS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4019"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-03-30T10:15:35.151Z"
   }
 ]
