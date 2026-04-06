@@ -1283,5 +1283,145 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-03-30T10:15:35.151Z"
+  },
+  {
+    "bill": {
+      "billId": 3894,
+      "shortTitle": "General Cemetery Act 2025",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-04-01T10:12:36.3317237",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3894"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-04-06T10:07:39.915Z"
+  },
+  {
+    "bill": {
+      "billId": 3895,
+      "shortTitle": "Norwich Livestock Market Act",
+      "currentHouse": "Unassigned",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-04-01T10:10:35.9706868",
+      "isAct": true,
+      "currentStage": {
+        "description": "Royal Assent",
+        "abbreviation": "RA",
+        "house": "Unassigned"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3895"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-04-06T10:07:39.937Z"
+  },
+  {
+    "bill": {
+      "billId": 3896,
+      "shortTitle": "City of London (Markets) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-04-01T10:09:31.7744211",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3896"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-04-06T10:07:39.992Z"
+  },
+  {
+    "bill": {
+      "billId": 4044,
+      "shortTitle": "Cheltenham Borough Council (Markets) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-03-31T12:31:02.4650272",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4044"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-04-06T10:07:40.049Z"
+  },
+  {
+    "bill": {
+      "billId": 4090,
+      "shortTitle": "Ministerial Salaries (Amendment) Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-03-31T12:25:40.6769381",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4090"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-04-06T10:07:40.398Z"
+  },
+  {
+    "bill": {
+      "billId": 3381,
+      "shortTitle": "Royal Albert Hall Bill [HL]",
+      "currentHouse": "Commons",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-03-31T12:25:02.8811178",
+      "isAct": false,
+      "currentStage": {
+        "description": "Report stage",
+        "abbreviation": "RS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3381"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-04-06T10:07:40.803Z"
+  },
+  {
+    "bill": {
+      "billId": 4082,
+      "shortTitle": "Grenfell Tower Memorial (Expenditure) Bill",
+      "currentHouse": "Lords",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-03-31T11:43:30.9592442",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4082"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-04-06T10:07:41.087Z"
   }
 ]
