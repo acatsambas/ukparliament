@@ -1503,5 +1503,65 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-04-20T10:46:37.515Z"
+  },
+  {
+    "bill": {
+      "billId": 3807,
+      "shortTitle": "Bullying and Respect at Work Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-04-24T10:45:39.9848784",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3807"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-04-27T11:01:55.534Z"
+  },
+  {
+    "bill": {
+      "billId": 3788,
+      "shortTitle": "Short-term Let Accommodation Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-04-24T10:45:11.281364",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3788"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-04-27T11:01:57.991Z"
+  },
+  {
+    "bill": {
+      "billId": 4028,
+      "shortTitle": "Removal of Titles Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-04-24T10:44:26.8591209",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4028"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-04-27T11:01:58.243Z"
   }
 ]
