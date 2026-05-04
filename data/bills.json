@@ -1563,5 +1563,185 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-04-27T11:01:58.243Z"
+  },
+  {
+    "bill": {
+      "billId": 3877,
+      "shortTitle": "Firearms (3D Printing) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-01T14:47:48.5592365",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3877"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-04T11:04:00.277Z"
+  },
+  {
+    "bill": {
+      "billId": 3948,
+      "shortTitle": "Financial Education Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-01T13:04:22.2636709",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3948"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-04T11:04:05.114Z"
+  },
+  {
+    "bill": {
+      "billId": 3996,
+      "shortTitle": "Festivals Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-01T13:03:43.5658506",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3996"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-04T11:04:06.820Z"
+  },
+  {
+    "bill": {
+      "billId": 4032,
+      "shortTitle": "Fertility Treatment (Right to Time Off) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-01T13:03:13.3677209",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4032"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-04T11:04:08.931Z"
+  },
+  {
+    "bill": {
+      "billId": 4033,
+      "shortTitle": "Ferry services (Integration and Regulation) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-01T13:02:37.9709019",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4033"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-04T11:04:09.836Z"
+  },
+  {
+    "bill": {
+      "billId": 3849,
+      "shortTitle": "Exemption from Value Added Tax (Public Electric Vehicle Charging Points) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-01T13:01:55.0776431",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3849"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-04T11:04:11.146Z"
+  },
+  {
+    "bill": {
+      "billId": 3856,
+      "shortTitle": "Exemption from Value Added Tax (Miscellaneous Provisions) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-01T13:00:58.4033995",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3856"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-04T11:04:12.014Z"
+  },
+  {
+    "bill": {
+      "billId": 3847,
+      "shortTitle": "Exemption from Value Added Tax (Listed Places of Worship) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-01T12:59:43.9166189",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3847"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-04T11:04:17.654Z"
+  },
+  {
+    "bill": {
+      "billId": 3780,
+      "shortTitle": "European Union (Withdrawal Arrangements) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-01T12:46:54.4159935",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/3780"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-04T11:04:19.666Z"
   }
 ]
