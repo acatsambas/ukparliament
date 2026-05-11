@@ -1743,5 +1743,45 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-05-04T11:04:19.666Z"
+  },
+  {
+    "bill": {
+      "billId": 4051,
+      "shortTitle": "Data Publication and Quality (Immigration, Nationality and Country of Birth) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-11T10:26:11.1311953",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4051"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-11T12:09:35.661Z"
+  },
+  {
+    "bill": {
+      "billId": 4055,
+      "shortTitle": "Youth Services Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-06T10:57:27.9680729",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4055"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-11T12:09:36.406Z"
   }
 ]
