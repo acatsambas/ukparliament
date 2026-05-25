@@ -1863,5 +1863,85 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-05-18T12:27:39.371Z"
+  },
+  {
+    "bill": {
+      "billId": 4123,
+      "shortTitle": "Steel Industry (Nationalisation) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-22T12:51:15.3218683",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee of the whole House",
+        "abbreviation": "COTWH",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4123"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-25T12:28:45.198Z"
+  },
+  {
+    "bill": {
+      "billId": 4124,
+      "shortTitle": "Health Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-05-21T11:20:22.9723215",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4124"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-05-25T12:28:48.991Z"
+  },
+  {
+    "bill": {
+      "billId": 4128,
+      "shortTitle": "Commercial Payments Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-05-21T09:28:33.4612157",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4128"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-05-25T12:28:53.062Z"
+  },
+  {
+    "bill": {
+      "billId": 4129,
+      "shortTitle": "Financial Services and Markets Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-05-21T09:26:24.8229311",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4129"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-05-25T12:28:57.908Z"
   }
 ]
