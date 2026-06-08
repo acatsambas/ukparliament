@@ -1943,5 +1943,65 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-05-25T12:28:57.908Z"
+  },
+  {
+    "bill": {
+      "billId": 4138,
+      "shortTitle": "Cohabitation Rights Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-06-08T13:05:19.1954128",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4138"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-06-08T13:05:09.075Z"
+  },
+  {
+    "bill": {
+      "billId": 4139,
+      "shortTitle": "British Sovereignty Protection (Chagos Islands) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-06-08T13:03:00.7307548",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4139"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-06-08T13:05:15.484Z"
+  },
+  {
+    "bill": {
+      "billId": 4134,
+      "shortTitle": "European Union (Withdrawal Arrangements) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-06-05T11:54:37.8348464",
+      "isAct": false,
+      "currentStage": {
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4134"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-06-08T13:05:22.722Z"
   }
 ]
