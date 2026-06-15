@@ -2003,5 +2003,45 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-06-08T13:05:22.722Z"
+  },
+  {
+    "bill": {
+      "billId": 4140,
+      "shortTitle": "National Security (State Threats) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-06-12T17:40:14.59496",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4140"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-06-15T15:12:42.469Z"
+  },
+  {
+    "bill": {
+      "billId": 4148,
+      "shortTitle": "Regulated Professions (Freedom of Speech) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-06-12T17:16:02.829544",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4148"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-06-15T15:12:42.915Z"
   }
 ]
