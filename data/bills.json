@@ -2043,5 +2043,65 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-06-15T15:12:42.915Z"
+  },
+  {
+    "bill": {
+      "billId": 4132,
+      "shortTitle": "Local Plans (Burial Space) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-06-26T17:15:43.1695389",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4132"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-06-29T13:04:27.040Z"
+  },
+  {
+    "bill": {
+      "billId": 4207,
+      "shortTitle": "Taxation (Energy and Vehicles) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-06-26T15:51:48.4308137",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4207"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-06-29T13:04:27.432Z"
+  },
+  {
+    "bill": {
+      "billId": 4130,
+      "shortTitle": "Lobbying Transparency (In-house Lobbyists) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-06-25T16:23:21.0205874",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4130"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-06-29T13:04:28.308Z"
   }
 ]
