@@ -2103,5 +2103,45 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-06-29T13:04:28.308Z"
+  },
+  {
+    "bill": {
+      "billId": 4254,
+      "shortTitle": "Immigration and Asylum Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-07-06T11:52:06.7890484",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4254"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-07-06T12:43:58.750Z"
+  },
+  {
+    "bill": {
+      "billId": 4131,
+      "shortTitle": "Nature’s Rights Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-07-06T09:08:48.2641425",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4131"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-07-06T12:44:01.122Z"
   }
 ]
