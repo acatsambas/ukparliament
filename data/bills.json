@@ -2163,5 +2163,105 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-07-13T11:59:11.353Z"
+  },
+  {
+    "bill": {
+      "billId": 4277,
+      "shortTitle": "Registration of Stillbirths (England and Wales) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-07-20T12:02:54.5161621",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4277"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-07-20T11:42:49.349Z"
+  },
+  {
+    "bill": {
+      "billId": 4194,
+      "shortTitle": "Scotland (Independence Referendum) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-07-20T10:37:44.4713704",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4194"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-07-20T11:42:58.098Z"
+  },
+  {
+    "bill": {
+      "billId": 4157,
+      "shortTitle": "Terminally Ill Adults (End of Life) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-07-20T10:23:55.5206062",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4157"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-07-20T11:42:58.279Z"
+  },
+  {
+    "bill": {
+      "billId": 4267,
+      "shortTitle": "Freedom of Information Act 2000 (Amendment) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-07-20T10:21:19.9057816",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4267"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-07-20T11:42:58.332Z"
+  },
+  {
+    "bill": {
+      "billId": 4270,
+      "shortTitle": "Members of Parliament (Prohibition of Second Jobs) (Motion) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-07-20T10:18:24.0400092",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4270"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-07-20T11:42:58.476Z"
   }
 ]
