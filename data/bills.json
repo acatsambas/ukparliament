@@ -2263,5 +2263,85 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-07-20T11:42:58.476Z"
+  },
+  {
+    "bill": {
+      "billId": 4146,
+      "shortTitle": "Microplastic Filters (Washing Machines) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-07-24T10:49:41.822658",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4146"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-07-27T12:20:13.629Z"
+  },
+  {
+    "bill": {
+      "billId": 4145,
+      "shortTitle": "Youth Justice Board for England and Wales (Restoration of Powers and Responsibilities) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-07-24T10:47:36.4654253",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4145"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-07-27T12:20:13.991Z"
+  },
+  {
+    "bill": {
+      "billId": 4142,
+      "shortTitle": "Creative Education Access Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-07-24T10:42:33.8657391",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4142"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-07-27T12:20:30.030Z"
+  },
+  {
+    "bill": {
+      "billId": 4279,
+      "shortTitle": "Co-operative Capital Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-07-23T17:49:46.5297125",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4279"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-07-27T12:20:30.525Z"
   }
 ]
