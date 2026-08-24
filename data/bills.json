@@ -2343,5 +2343,25 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-07-27T12:20:30.525Z"
+  },
+  {
+    "bill": {
+      "billId": 4143,
+      "shortTitle": "Leaseholder Remediation (Building Safety) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-08-20T16:01:35.2418071",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4143"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-08-24T09:43:26.855Z"
   }
 ]
