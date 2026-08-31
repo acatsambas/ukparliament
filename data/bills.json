@@ -2363,5 +2363,45 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-08-24T09:43:26.855Z"
+  },
+  {
+    "bill": {
+      "billId": 4176,
+      "shortTitle": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-08-28T10:05:16.881531",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4176"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-08-31T16:42:05.563Z"
+  },
+  {
+    "bill": {
+      "billId": 4167,
+      "shortTitle": "Northern Ireland Troubles (Criminal Investigations etc) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-08-27T13:05:45.3615699",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4167"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-08-31T16:42:05.859Z"
   }
 ]
