@@ -2403,5 +2403,125 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-08-31T16:42:05.859Z"
+  },
+  {
+    "bill": {
+      "billId": 4258,
+      "shortTitle": "Controlled Drugs (Procedure for Specification) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-07T15:38:41.7372928",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4258"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-07T14:46:24.144Z"
+  },
+  {
+    "bill": {
+      "billId": 4206,
+      "shortTitle": "Sporting and Physical Education Services (Value Added Tax Exemption) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-07T15:10:52.3239484",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4206"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-07T14:46:24.444Z"
+  },
+  {
+    "bill": {
+      "billId": 4242,
+      "shortTitle": "European Convention on Human Rights (Notification of Withdrawal) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-07T12:11:03.0991422",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4242"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-07T14:46:24.517Z"
+  },
+  {
+    "bill": {
+      "billId": 4271,
+      "shortTitle": "Sale and Supply of Glue Traps (Prohibition) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-07T10:32:39.7142112",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4271"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-07T14:46:24.732Z"
+  },
+  {
+    "bill": {
+      "billId": 4198,
+      "shortTitle": "Ponds (Permitted Development) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-07T10:31:38.5876405",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4198"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-07T14:46:25.002Z"
+  },
+  {
+    "bill": {
+      "billId": 4186,
+      "shortTitle": "Multi-Storey Car Parks (Safety) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-07T10:29:30.1676232",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4186"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-07T14:46:25.273Z"
   }
 ]
