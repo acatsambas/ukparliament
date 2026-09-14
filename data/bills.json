@@ -2523,5 +2523,145 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-09-07T14:46:25.273Z"
+  },
+  {
+    "bill": {
+      "billId": 4181,
+      "shortTitle": "In-Person Banking Services Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-14T16:24:36.3411815",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4181"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-14T15:38:41.553Z"
+  },
+  {
+    "bill": {
+      "billId": 4246,
+      "shortTitle": "Lobular Breast Cancer Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-14T15:15:12.2923787",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4246"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-14T15:38:41.873Z"
+  },
+  {
+    "bill": {
+      "billId": 4227,
+      "shortTitle": "Covid-19 Vaccine Damage Payments Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-14T15:11:20.8294207",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4227"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-14T15:38:42.180Z"
+  },
+  {
+    "bill": {
+      "billId": 4214,
+      "shortTitle": "Meat (Information About Method of Killing) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-14T15:09:59.3017909",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4214"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-14T15:38:42.543Z"
+  },
+  {
+    "bill": {
+      "billId": 4205,
+      "shortTitle": "Hospitality Services (Value Added Tax Exemption) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-14T15:08:07.2403184",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4205"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-14T15:38:42.857Z"
+  },
+  {
+    "bill": {
+      "billId": 4280,
+      "shortTitle": "Sovereign Grant Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-14T13:29:35.5544194",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4280"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-14T15:38:43.198Z"
+  },
+  {
+    "bill": {
+      "billId": 4183,
+      "shortTitle": "Gaza (Independent Public Inquiry) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-14T13:06:13.9194974",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4183"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-14T15:38:43.495Z"
   }
 ]
