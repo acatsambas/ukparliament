@@ -2663,5 +2663,45 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-09-14T15:38:43.495Z"
+  },
+  {
+    "bill": {
+      "billId": 4302,
+      "shortTitle": "Housing Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-18T16:33:32.2428636",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4302"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-21T15:38:48.320Z"
+  },
+  {
+    "bill": {
+      "billId": 4301,
+      "shortTitle": "E-Scooters (Safety and Sale) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-09-17T09:16:00.6041064",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4301"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-09-21T15:38:48.849Z"
   }
 ]
