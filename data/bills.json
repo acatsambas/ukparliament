@@ -2703,5 +2703,45 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-09-21T15:38:48.849Z"
+  },
+  {
+    "bill": {
+      "billId": 4156,
+      "shortTitle": "Infants, Parents and Carers Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-23T15:09:37.3595949",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4156"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-28T17:20:09.585Z"
+  },
+  {
+    "bill": {
+      "billId": 4257,
+      "shortTitle": "Medical Services (Rural Areas) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-09-23T13:08:07.5896282",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4257"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-09-28T17:20:09.738Z"
   }
 ]
