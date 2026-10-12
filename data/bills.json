@@ -2743,5 +2743,65 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-09-28T17:20:09.738Z"
+  },
+  {
+    "bill": {
+      "billId": 4170,
+      "shortTitle": "Automated Online Software (Access and Transparency) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-10-12T19:02:48.1739091",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4170"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-10-12T18:35:00.435Z"
+  },
+  {
+    "bill": {
+      "billId": 4263,
+      "shortTitle": "Maximum Workplace Temperature Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-10-12T15:10:08.1134292",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4263"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-10-12T18:35:00.464Z"
+  },
+  {
+    "bill": {
+      "billId": 4201,
+      "shortTitle": "Non-Domestic Rating (Retail, Hospitality and Leisure) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-10-12T15:08:29.6346925",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4201"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-10-12T18:35:00.599Z"
   }
 ]
