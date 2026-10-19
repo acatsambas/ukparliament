@@ -2803,5 +2803,45 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-10-12T18:35:00.599Z"
+  },
+  {
+    "bill": {
+      "billId": 4159,
+      "shortTitle": "Heritage Public Houses Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-10-19T16:27:59.7003631",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4159"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-10-19T16:11:14.715Z"
+  },
+  {
+    "bill": {
+      "billId": 4259,
+      "shortTitle": "Outdoor Education Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-10-19T16:23:56.1486209",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4259"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-10-19T16:11:14.986Z"
   }
 ]
