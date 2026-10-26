@@ -2843,5 +2843,65 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-10-19T16:11:14.986Z"
+  },
+  {
+    "bill": {
+      "billId": 4290,
+      "shortTitle": "Highways (Financing) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-10-26T11:56:09.0220018",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4290"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-10-26T15:50:18.493Z"
+  },
+  {
+    "bill": {
+      "billId": 4135,
+      "shortTitle": "House of Lords (Alternative Second Chamber) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-10-26T10:45:37.0741503",
+      "isAct": false,
+      "currentStage": {
+        "description": "Committee stage",
+        "abbreviation": "CS",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4135"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-10-26T15:50:19.127Z"
+  },
+  {
+    "bill": {
+      "billId": 4305,
+      "shortTitle": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-10-26T09:52:42.2748848",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4305"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-10-26T15:50:19.414Z"
   }
 ]
