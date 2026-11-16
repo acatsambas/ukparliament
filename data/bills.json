@@ -2903,5 +2903,85 @@
     "summary": "",
     "categories": [],
     "analysedAt": "2026-10-26T15:50:19.414Z"
+  },
+  {
+    "bill": {
+      "billId": 4136,
+      "shortTitle": "Corporate Waste Responsibility Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-11-16T18:53:23.4980627",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4136"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-11-16T19:15:15.458Z"
+  },
+  {
+    "bill": {
+      "billId": 4144,
+      "shortTitle": "Complications from Abortions (Annual Report) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-11-16T18:50:48.564961",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4144"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-11-16T19:15:15.816Z"
+  },
+  {
+    "bill": {
+      "billId": 4294,
+      "shortTitle": "Utilities and Services Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-11-16T17:01:15.7673377",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4294"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-11-16T19:15:16.111Z"
+  },
+  {
+    "bill": {
+      "billId": 4160,
+      "shortTitle": "Commercial Organisations and Public Authorities Duty (Human Rights and Environment) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-11-16T16:42:26.4472742",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4160"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-11-16T19:15:16.613Z"
   }
 ]
