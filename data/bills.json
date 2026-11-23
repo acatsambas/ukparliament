@@ -2983,5 +2983,65 @@
     "summary": "Analysis failed due to an error.",
     "categories": [],
     "analysedAt": "2026-11-16T19:15:16.613Z"
+  },
+  {
+    "bill": {
+      "billId": 4287,
+      "shortTitle": "Illegal Trading (Temporary Closure of Premises) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-11-23T16:40:45.9871663",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4287"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-11-23T20:51:52.651Z"
+  },
+  {
+    "bill": {
+      "billId": 4335,
+      "shortTitle": "Commissioner for Poverty Prevention (Establishment) Bill [HL]",
+      "currentHouse": "Lords",
+      "originatingHouse": "Lords",
+      "lastUpdate": "2026-11-23T16:35:36.2967848",
+      "isAct": false,
+      "currentStage": {
+        "description": "1st reading",
+        "abbreviation": "1R",
+        "house": "Lords"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4335"
+    },
+    "textAvailable": true,
+    "summary": "Analysis failed due to an error.",
+    "categories": [],
+    "analysedAt": "2026-11-23T20:51:52.949Z"
+  },
+  {
+    "bill": {
+      "billId": 4295,
+      "shortTitle": "Personal Data (Digital Twins) Bill",
+      "currentHouse": "Commons",
+      "originatingHouse": "Commons",
+      "lastUpdate": "2026-11-23T11:40:26.4067824",
+      "isAct": false,
+      "currentStage": {
+        "description": "2nd reading",
+        "abbreviation": "2R",
+        "house": "Commons"
+      },
+      "billUrl": "https://bills.parliament.uk/bills/4295"
+    },
+    "textAvailable": false,
+    "summary": "",
+    "categories": [],
+    "analysedAt": "2026-11-23T20:51:52.963Z"
   }
 ]
